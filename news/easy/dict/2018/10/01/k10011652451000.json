@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本列島</rb><rt>にっぽんれっとう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、いちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>島</rb><rt>しま</rt></ruby>。",
+          "hyouki": [
+            "本州"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "どこに<ruby><rb>行</rb><rt>い</rt></ruby>ったのかわからないこと。",
+          "hyouki": [
+            "行方不明"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>電気</rb><rt>でんき</rt></ruby>の<ruby><rb>送電</rb><rt>そうでん</rt></ruby>が、<ruby><rb>一時</rb><rt>いちじ</rt></ruby>、<ruby><rb>止</rb><rt>と</rt></ruby>まること。",
+          "hyouki": [
+            "停電"
+          ]
+        }
+      ]
+    }
+  }
+}

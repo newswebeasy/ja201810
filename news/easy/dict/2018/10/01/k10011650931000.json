@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地震</rb><rt>じしん</rt></ruby>などのために、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>におし<ruby><rb>寄</rb><rt>よ</rt></ruby>せてくること。",
+          "hyouki": [
+            "津波"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>地震</rb><rt>じしん</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさの<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "マグニチュード"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。",
+          "hyouki": [
+            "避難"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないことや、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、<ruby><rb>救</rb><rt>すく</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>貸</rb><rt>か</rt></ruby>す。<ruby><rb>手伝</rb><rt>てつだ</rt></ruby>う。",
+          "hyouki": [
+            "助ける"
+          ]
+        }
+      ]
+    }
+  }
+}

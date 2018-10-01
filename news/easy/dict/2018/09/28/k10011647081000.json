@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>。",
+          "hyouki": [
+            "中心"
+          ]
+        },
+        {
+          "def": "ものごとのいちばんだいじなところ。",
+          "hyouki": [
+            "中心"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>気象</rb><rt>きしょう</rt></ruby>で、<ruby><rb>大気</rb><rt>たいき</rt></ruby>の<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「hPa」。<ruby><rb>以前</rb><rt>いぜん</rt></ruby>は、ミリバールといった。",
+          "hyouki": [
+            "ヘクトパスカル"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>一秒間</rb><rt>いちびょうかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。",
+          "hyouki": [
+            "秒速"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ロケットで<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げ、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>るようにした、<ruby><rb>人間</rb><rt>にんげん</rt></ruby>の<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>。<ruby><rb>宇宙</rb><rt>うちゅう</rt></ruby>のようすや<ruby><rb>気象</rb><rt>きしょう</rt></ruby>などを<ruby><rb>調</rb><rt>しら</rt></ruby>べたり、<ruby><rb>通信</rb><rt>つうしん</rt></ruby>や<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>の<ruby><rb>中継</rb><rt>ちゅうけい</rt></ruby>に<ruby><rb>役立</rb><rt>やくだ</rt></ruby>てたりする。",
+          "hyouki": [
+            "人工衛星"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>前</rb><rt>まえ</rt></ruby>もって、こうなるだろうと、<ruby><rb>見当</rb><rt>けんとう</rt></ruby>をつけること。",
+          "hyouki": [
+            "予測"
+          ]
+        }
+      ]
+    }
+  }
+}

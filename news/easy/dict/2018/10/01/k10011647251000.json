@@ -1,0 +1,30 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "あやしいと<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。<ruby><rb>変</rb><rt>へん</rt></ruby>に<ruby><rb>思</rb><rt>おも</rt></ruby>うこと。",
+          "hyouki": [
+            "疑い"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "してはいけないと<ruby><rb>止</rb><rt>と</rt></ruby>めること。",
+          "hyouki": [
+            "禁止"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となって、<ruby><rb>各地</rb><rt>かくち</rt></ruby>の<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>を<ruby><rb>指揮</rb><rt>しき</rt></ruby>する<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "警察庁"
+          ]
+        }
+      ]
+    }
+  }
+}

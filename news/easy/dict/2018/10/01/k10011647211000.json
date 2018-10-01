@@ -1,0 +1,50 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。",
+          "hyouki": [
+            "コンビニ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>衣類</rb><rt>いるい</rt></ruby>や<ruby><rb>食器</rb><rt>しょっき</rt></ruby>などのよごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす<ruby><rb>薬品</rb><rt>やくひん</rt></ruby>。",
+          "hyouki": [
+            "洗剤"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ]
+    }
+  }
+}

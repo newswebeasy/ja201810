@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>予約</rb><rt>よやく</rt></ruby>などを<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>消</rb><rt>け</rt></ruby>すこと。",
+          "hyouki": [
+            "キャンセル"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>値段</rb><rt>ねだん</rt></ruby>よりいくらか<ruby><rb>安</rb><rt>やす</rt></ruby>くすること。",
+          "hyouki": [
+            "割引"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>が<ruby><rb>港</rb><rt>みなと</rt></ruby>にとまる。",
+          "hyouki": [
+            "泊"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>家</rb><rt>いえ</rt></ruby>でない<ruby><rb>所</rb><rt>ところ</rt></ruby>にとまる。",
+          "hyouki": [
+            "泊"
+          ]
+        },
+        {
+          "def": "あっさりしている。",
+          "hyouki": [
+            "泊"
+          ]
+        },
+        {
+          "def": "とまった<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "泊"
+          ]
+        }
+      ]
+    }
+  }
+}

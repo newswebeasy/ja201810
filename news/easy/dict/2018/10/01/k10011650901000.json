@@ -1,0 +1,46 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "その<ruby><rb>地域</rb><rt>ちいき</rt></ruby>の<ruby><rb>警察</rb><rt>けいさつ</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>りあつかう<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "警察署"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>をおかした<ruby><rb>疑</rb><rt>うたが</rt></ruby>いのある<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "容疑者"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いことをしたのではないかという<ruby><rb>疑</rb><rt>うたが</rt></ruby>い。",
+          "hyouki": [
+            "容疑"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ]
+    }
+  }
+}
