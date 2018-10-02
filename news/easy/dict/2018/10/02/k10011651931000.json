@@ -1,0 +1,22 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>や<ruby><rb>都道府県</rb><rt>とどうふけん</rt></ruby>、<ruby><rb>市町村</rb><rt>しちょうそん</rt></ruby>が、そこに<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>人</rb><rt>ひと</rt></ruby>から<ruby><rb>集</rb><rt>あつ</rt></ruby>めるお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "税金"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ]
+    }
+  }
+}

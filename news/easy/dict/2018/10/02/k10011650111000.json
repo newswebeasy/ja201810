@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、せりふの<ruby><rb>代</rb><rt>か</rt></ruby>わりに<ruby><rb>歌</rb><rt>うた</rt></ruby>で<ruby><rb>物語</rb><rt>ものがたり</rt></ruby>の<ruby><rb>筋</rb><rt>すじ</rt></ruby>を<ruby><rb>進</rb><rt>すす</rt></ruby>めていく<ruby><rb>劇</rb><rt>げき</rt></ruby>。<ruby><rb>歌劇</rb><rt>かげき</rt></ruby>。",
+          "hyouki": [
+            "オペラ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>で、<ruby><rb>歌</rb><rt>うた</rt></ruby>やおどりや<ruby><rb>劇</rb><rt>げき</rt></ruby>などをすること。",
+          "hyouki": [
+            "公演"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "歌手"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことや、<ruby><rb>楽器</rb><rt>がっき</rt></ruby>を<ruby><rb>演奏</rb><rt>えんそう</rt></ruby>すること、<ruby><rb>曲</rb><rt>きょく</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ることなどを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "音楽家"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>管楽器</rb><rt>かんがっき</rt></ruby>・<ruby><rb>弦楽器</rb><rt>げんがっき</rt></ruby>・<ruby><rb>打楽器</rb><rt>だがっき</rt></ruby>など、<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>楽器</rb><rt>がっき</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>い、<ruby><rb>指揮者</rb><rt>しきしゃ</rt></ruby>の<ruby><rb>合図</rb><rt>あいず</rt></ruby>で<ruby><rb>演奏</rb><rt>えんそう</rt></ruby>する<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>。<ruby><rb>管弦楽</rb><rt>かんげんがく</rt></ruby>。また、その<ruby><rb>楽団</rb><rt>がくだん</rt></ruby>。",
+          "hyouki": [
+            "オーケストラ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ほめるときや、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>のときなどに、<ruby><rb>手</rb><rt>て</rt></ruby>のひらを<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "拍手"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えたことや<ruby><rb>思</rb><rt>おも</rt></ruby>ったことを、ことば・<ruby><rb>身</rb><rt>み</rt></ruby>ぶり・<ruby><rb>文字</rb><rt>もじ</rt></ruby>・<ruby><rb>色</rb><rt>いろ</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>などで<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。また、その<ruby><rb>表</rb><rt>あらわ</rt></ruby>し<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "表現"
+          ]
+        }
+      ]
+    }
+  }
+}

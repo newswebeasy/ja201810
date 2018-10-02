@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011651931000",
+  "news_prearranged_time": "2018-10-02 11:30:00",
+  "title": "たばこの値段が１箱１０円から４０円上がる",
+  "title_with_ruby": "たばこの<ruby>値段<rt>ねだん</rt></ruby>が１<ruby>箱<rt>はこ</rt></ruby>１０<ruby>円<rt>えん</rt></ruby>から４０<ruby>円<rt>えん</rt></ruby><ruby>上<rt>あ</rt></ruby>がる",
+  "outline_with_ruby": "<p>１０<ruby>月<rt>がつ</rt></ruby><ruby>１日<rt>ついたち</rt></ruby>からたばこの<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>税金<rt>ぜいきん</rt></ruby></a>が１<ruby>本<rt>ぽん</rt></ruby>で１<ruby>円<rt>えん</rt></ruby><ruby>上<rt>あ</rt></ruby>がりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181001/../20181001/K10011651931_1810010536_1810010537_01_03.jpg",
+  "news_web_movie_uri": "k10011651931_201810010536_201810010537.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011651931000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011651931000/k10011651931000.html"
+}

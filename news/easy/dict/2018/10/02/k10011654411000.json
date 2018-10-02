@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>腕</rb><rt>うで</rt></ruby>の<ruby><rb>関節</rb><rt>かんせつ</rt></ruby>で、<ruby><rb>曲</rb><rt>ま</rt></ruby>がる<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "肘"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>傷</rb><rt>きず</rt></ruby>のところを、<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>ったりして、<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>すること。",
+          "hyouki": [
+            "手術"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>９人</rb><rt>くにん</rt></ruby>ずつの<ruby><rb>２</rb><rt>に</rt></ruby>チームが、たがいにバットでボールを<ruby><rb>打</rb><rt>う</rt></ruby>ってせめ<ruby><rb>合</rb><rt>あ</rt></ruby>い、<ruby><rb>点</rb><rt>てん</rt></ruby>を<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>。ベースボール。",
+          "hyouki": [
+            "野球"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ものごとが<ruby><rb>思</rb><rt>おも</rt></ruby>いどおりにうまくいくこと。",
+          "hyouki": [
+            "成功"
+          ]
+        },
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>ること。",
+          "hyouki": [
+            "成功"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、バッターにボールを<ruby><rb>投</rb><rt>な</rt></ruby>げる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>投手</rb><rt>とうしゅ</rt></ruby>。",
+          "hyouki": [
+            "ピッチャー"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、ボールを<ruby><rb>打</rb><rt>う</rt></ruby>つ<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>。",
+          "hyouki": [
+            "バッター"
+          ]
+        }
+      ]
+    }
+  }
+}

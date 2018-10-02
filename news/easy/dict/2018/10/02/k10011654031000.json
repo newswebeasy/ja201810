@@ -1,0 +1,106 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "フランスの<ruby><rb>歌謡曲</rb><rt>かようきょく</rt></ruby>。",
+          "hyouki": [
+            "シャンソン"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>歌</rb><rt>うた</rt></ruby>を<ruby><rb>歌</rb><rt>うた</rt></ruby>うことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "歌手"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>劇</rb><rt>げき</rt></ruby>・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・テレビなどで、<ruby><rb>役</rb><rt>やく</rt></ruby>を<ruby><rb>演</rb><rt>えん</rt></ruby>じる<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>役者</rb><rt>やくしゃ</rt></ruby>。",
+          "hyouki": [
+            "俳優"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>がこの<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>生</rb><rt>い</rt></ruby>きている<ruby><rb>間</rb><rt>あいだ</rt></ruby>。<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>一生</rb><rt>いっしょう</rt></ruby>。",
+          "hyouki": [
+            "人生"
+          ]
+        },
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で<ruby><rb>生</rb><rt>い</rt></ruby>きていくこと。",
+          "hyouki": [
+            "人生"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を）かわいがる。かわいく<ruby><rb>思</rb><rt>おも</rt></ruby>う。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。",
+          "hyouki": [
+            "愛"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を）<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>にする。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。",
+          "hyouki": [
+            "愛"
+          ]
+        },
+        {
+          "def": "<ruby><rb>好</rb><rt>この</rt></ruby>む。おもしろいと<ruby><rb>思</rb><rt>おも</rt></ruby>う。",
+          "hyouki": [
+            "愛"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>作品</rb><rt>さくひん</rt></ruby>にかかれていることの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>。また、<ruby><rb>作品</rb><rt>さくひん</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になっている<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。<ruby><rb>主題</rb><rt>しゅだい</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>論文</rb><rt>ろんぶん</rt></ruby>や、<ruby><rb>演説</rb><rt>えんぜつ</rt></ruby>の<ruby><rb>題目</rb><rt>だいもく</rt></ruby>。",
+          "hyouki": [
+            "テーマ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>曲</rb><rt>きょく</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>となっているメロディー。",
+          "hyouki": [
+            "テーマ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>共和国</rb><rt>きょうわこく</rt></ruby>で、その<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大統領"
+          ]
+        }
+      ]
+    }
+  }
+}
