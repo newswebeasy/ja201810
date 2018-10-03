@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がって、<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。ふくれて<ruby><rb>大</rb><rt>おお</rt></ruby>きくなる。",
+          "hyouki": [
+            "膨らむ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby><ruby><rb>三大宗教</rb><rt>さんだいしゅうきょう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>紀元前</rb><rt>きげんぜん</rt></ruby>５００<ruby><rb>年</rb><rt>ねん</rt></ruby>ごろ、インドで<ruby><rb>釈迦</rb><rt>しゃか</rt></ruby>が<ruby><rb>説</rb><rt>と</rt></ruby>いた<ruby><rb>教</rb><rt>おし</rt></ruby>え。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>には、<ruby><rb>６</rb><rt>ろく</rt></ruby><ruby><rb>世紀</rb><rt>せいき</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>ごろ<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>して<ruby><rb>伝</rb><rt>つた</rt></ruby>わった。",
+          "hyouki": [
+            "仏教"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>さのために、<ruby><rb>水</rb><rt>みず</rt></ruby>などの<ruby><rb>液体</rb><rt>えきたい</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まる。<ruby><rb>氷</rb><rt>こおり</rt></ruby>になる。",
+          "hyouki": [
+            "凍る"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>果物</rb><rt>くだもの</rt></ruby>のしるに、<ruby><rb>砂糖</rb><rt>さとう</rt></ruby>などを<ruby><rb>入</rb><rt>い</rt></ruby>れてこおらせたかし。",
+          "hyouki": [
+            "シャーベット"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011654351000",
+  "news_prearranged_time": "2018-10-03 11:30:00",
+  "title": "東京都　地下鉄の駅で案内をするロボットの実験を行う",
+  "title_with_ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>　<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<ruby>案内<rt>あんない</rt></ruby>をするロボットの<ruby>実験<rt>じっけん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う",
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby>は、<ruby>働<rt>はたら</rt></ruby>く<ruby>人<rt>ひと</rt></ruby>が<ruby>足<rt>た</rt></ruby>りなくなっているため、<ruby>地下鉄<rt>ちかてつ</rt></ruby>の<ruby>駅<rt>えき</rt></ruby>で<a href='javascript:void(0)' class='dicWin' id='id-0000'>ロボット</a>を<ruby>使<rt>つか</rt></ruby>うことを<ruby>考<rt>かんが</rt></ruby>えています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181002/../20181002/K10011654351_1810020751_1810020752_01_03.jpg",
+  "news_web_movie_uri": "k10011654351_201810020751_201810020752.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011654351000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011654351000/k10011654351000.html"
+}

@@ -1,0 +1,50 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "その<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>に<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>会社員</rb><rt>かいしゃいん</rt></ruby>。",
+          "hyouki": [
+            "社員"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "その<ruby><rb>土地</rb><rt>とち</rt></ruby>で<ruby><rb>生</rb><rt>う</rt></ruby>まれたこと。",
+          "hyouki": [
+            "出身"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>学校</rb><rt>がっこう</rt></ruby>を<ruby><rb>卒業</rb><rt>そつぎょう</rt></ruby>したこと。",
+          "hyouki": [
+            "出身"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "システム"
+          ]
+        },
+        {
+          "def": "ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "システム"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ものごとを<ruby><rb>成</rb><rt>な</rt></ruby>しとげることのできる<ruby><rb>力</rb><rt>ちから</rt></ruby>。",
+          "hyouki": [
+            "能力"
+          ]
+        }
+      ]
+    }
+  }
+}
