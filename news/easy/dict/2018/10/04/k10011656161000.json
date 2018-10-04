@@ -1,0 +1,200 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>や<ruby><rb>運動</rb><rt>うんどう</rt></ruby>、<ruby><rb>熱</rb><rt>ねつ</rt></ruby>・<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>電気</rb><rt>でんき</rt></ruby>・<ruby><rb>音</rb><rt>おと</rt></ruby>のはたらきなどについて<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>学問</rb><rt>がくもん</rt></ruby>。",
+          "hyouki": [
+            "物理学"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>学問</rb><rt>がくもん</rt></ruby>を<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>学問</rb><rt>がくもん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "学者"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>に<ruby><rb>向</rb><rt>む</rt></ruby>かって<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>きつける<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>人間</rb><rt>にんげん</rt></ruby>には、<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>重</rb><rt>おも</rt></ruby>さとして<ruby><rb>感</rb><rt>かん</rt></ruby>じられるもの。",
+          "hyouki": [
+            "重力"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えること。また、<ruby><rb>考</rb><rt>かんが</rt></ruby>えた<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。",
+          "hyouki": [
+            "考え"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "まちがいがないようにする。あやふやな<ruby><rb>点</rb><rt>てん</rt></ruby>を、はっきりさせる。",
+          "hyouki": [
+            "確かめる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>正</rb><rt>ただ</rt></ruby>しくてまちがいのないこと。",
+          "hyouki": [
+            "正確"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "まちがえてしまうこと。あやまり。",
+          "hyouki": [
+            "間違い"
+          ]
+        },
+        {
+          "def": "よくないできごと。<ruby><rb>事故</rb><rt>じこ</rt></ruby>。",
+          "hyouki": [
+            "間違い"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "秒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "秒"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>や<ruby><rb>量</rb><rt>りょう</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えること。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>式</rb><rt>しき</rt></ruby>を<ruby><rb>解</rb><rt>と</rt></ruby>いて、<ruby><rb>答</rb><rt>こた</rt></ruby>えを<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "計算"
+          ]
+        },
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えに<ruby><rb>入</rb><rt>い</rt></ruby>れておくこと。",
+          "hyouki": [
+            "計算"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "いくつかにわける。わかれる。",
+          "hyouki": [
+            "分"
+          ]
+        },
+        {
+          "def": "わけた、それぞれのもの。",
+          "hyouki": [
+            "分"
+          ]
+        },
+        {
+          "def": "<ruby><rb>持</rb><rt>も</rt></ruby>っているもの。<ruby><rb>身</rb><rt>み</rt></ruby>のほど。<ruby><rb>立場</rb><rt>たちば</rt></ruby>や<ruby><rb>役割</rb><rt>やくわり</rt></ruby>。",
+          "hyouki": [
+            "分"
+          ]
+        },
+        {
+          "def": "ようす。ころあい。",
+          "hyouki": [
+            "分"
+          ]
+        },
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>わける。",
+          "hyouki": [
+            "分"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>時間</rb><rt>じかん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "分"
+          ]
+        },
+        {
+          "def": "<ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>度</rb><rt>ど</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "分"
+          ]
+        },
+        {
+          "def": "<ruby><rb>度合</rb><rt>どあ</rt></ruby>い。",
+          "hyouki": [
+            "分"
+          ]
+        },
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>の１０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "分"
+          ]
+        },
+        {
+          "def": "１<ruby><rb>割</rb><rt>わり</rt></ruby>・１<ruby><rb>度</rb><rt>ど</rt></ruby>・１<ruby><rb>寸</rb><rt>すん</rt></ruby>の、１０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "分"
+          ]
+        }
+      ]
+    }
+  }
+}

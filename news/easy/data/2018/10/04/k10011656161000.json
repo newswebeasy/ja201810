@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011656161000",
+  "news_prearranged_time": "2018-10-04 11:30:00",
+  "title": "高い所では時間が速く進むか　東京スカイツリーで調べる",
+  "title_with_ruby": "<ruby>高<rt>たか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>では<ruby>時間<rt>じかん</rt></ruby>が<ruby>速<rt>はや</rt></ruby>く<ruby>進<rt>すす</rt></ruby>むか　<ruby>東京<rt>とうきょう</rt></ruby>スカイツリーで<ruby>調<rt>しら</rt></ruby>べる",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>物理<rt>ぶつり</rt></ruby></a><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>学者<rt>がくしゃ</rt></ruby></a>のアインシュタインは、<ruby>高<rt>たか</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>では<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>重力<rt>じゅうりょく</rt></ruby></a>が<ruby>弱<rt>よわ</rt></ruby>くなるため、<ruby>低<rt>ひく</rt></ruby>い<ruby>所<rt>ところ</rt></ruby>より<ruby>時間<rt>じかん</rt></ruby>が<ruby>速<rt>はや</rt></ruby>く<ruby>進<rt>すす</rt></ruby>むと<ruby>言<rt>い</rt></ruby>いました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181003/../20181003/K10011656161_1810030550_1810030552_01_03.jpg",
+  "news_web_movie_uri": "k10011656161_201810030550_201810030552.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011656161000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011656161000/k10011656161000.html"
+}

@@ -18,11 +18,24 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www.nhk-ondemand.jp/goods/G2018090599SA000/index.html?capid=nw001",
+      "title": "ＮＨＫスペシャル 「消えた弁護士たち 中国“法治”社会の現実」",
+      "time": "ＮＨＫオンデマンド 7月22日",
+      "datetime": "2018-07-22"
+    },
+    {
+      "link": "https://www.nhk.or.jp/kokusaihoudou/archive/2018/03/0305.html",
+      "title": "中国・習１強時代 （１）権力集中が生む矛盾",
+      "time": "国際報道２０１８ 3月5日",
+      "datetime": "2018-03-05"
+    }
+  ],
   "word": [],
   "news_id": "k10011656631000",
   "yyyy": "2018",
   "mm": "10",
   "dd": "03",
-  "url": "https://www3.nhk.or.jp/news/html/20181003/k10011656631000.html?utm_int=news-international_contents_list-items_003"
+  "url": "https://www3.nhk.or.jp/news/html/20181003/k10011656631000.html"
 }
