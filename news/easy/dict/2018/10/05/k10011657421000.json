@@ -1,0 +1,89 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>入</rb><rt>い</rt></ruby>れかわること。かわり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "交代",
+            "交替"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "その<ruby><rb>番</rb><rt>ばん</rt></ruby>に<ruby><rb>当</rb><rt>あ</rt></ruby>たること。また、<ruby><rb>当</rb><rt>あ</rt></ruby>たった<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "当番"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>などでする、<ruby><rb>昼間</rb><rt>ひるま</rt></ruby>または<ruby><rb>休日</rb><rt>きゅうじつ</rt></ruby>の<ruby><rb>当番</rb><rt>とうばん</rt></ruby>。また、<ruby><rb>当番</rb><rt>とうばん</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "日直"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>をするために、かかるお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>学資</rb><rt>がくし</rt></ruby>。",
+          "hyouki": [
+            "学費"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>での<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>を<ruby><rb>続</rb><rt>つづ</rt></ruby>けるために、<ruby><rb>生徒</rb><rt>せいと</rt></ruby>や<ruby><rb>学生</rb><rt>がくせい</rt></ruby>に<ruby><rb>貸</rb><rt>か</rt></ruby>しあたえるお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "奨学金"
+          ]
+        },
+        {
+          "def": "<ruby><rb>学問</rb><rt>がくもん</rt></ruby>の<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けるために、あたえられるお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "奨学金"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>医者</rb><rt>いしゃ</rt></ruby>が、<ruby><rb>病気</rb><rt>びょうき</rt></ruby>や<ruby><rb>傷</rb><rt>きず</rt></ruby>のところを、<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>開</rb><rt>ひら</rt></ruby>いたり<ruby><rb>切</rb><rt>き</rt></ruby>り<ruby><rb>取</rb><rt>と</rt></ruby>ったりして、<ruby><rb>治療</rb><rt>ちりょう</rt></ruby>すること。",
+          "hyouki": [
+            "手術"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>母親</rb><rt>ははおや</rt></ruby>から、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>生</rb><rt>う</rt></ruby>まれた、<ruby><rb>二人</rb><rt>ふたり</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>。<ruby><rb>双生児</rb><rt>そうせいじ</rt></ruby>。",
+          "hyouki": [
+            "双子"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "はなれているものが<ruby><rb>結</rb><rt>むす</rt></ruby>ばれる。",
+          "hyouki": [
+            "つながる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>関係</rb><rt>かんけい</rt></ruby>がある。<ruby><rb>結</rb><rt>むす</rt></ruby>びつく。",
+          "hyouki": [
+            "つながる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>木</rb><rt>き</rt></ruby>や<ruby><rb>草</rb><rt>くさ</rt></ruby>などを）<ruby><rb>枯</rb><rt>か</rt></ruby>れさせる。",
+          "hyouki": [
+            "枯らす"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "（<ruby><rb>水</rb><rt>みず</rt></ruby>や<ruby><rb>花</rb><rt>はな</rt></ruby>びらなどを）<ruby><rb>散</rb><rt>ち</rt></ruby>らす。",
+          "hyouki": [
+            "まく"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "くっついていたものを<ruby><rb>分</rb><rt>わ</rt></ruby>ける。",
+          "hyouki": [
+            "離す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>距離</rb><rt>きょり</rt></ruby>をあける。<ruby><rb>遠</rb><rt>とお</rt></ruby>くへやる。",
+          "hyouki": [
+            "離す"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ものごとが<ruby><rb>思</rb><rt>おも</rt></ruby>いどおりにうまくいくこと。",
+          "hyouki": [
+            "成功"
+          ]
+        },
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>を<ruby><rb>得</rb><rt>え</rt></ruby>ること。",
+          "hyouki": [
+            "成功"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "参加"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "ありがたいと<ruby><rb>思</rb><rt>おも</rt></ruby>う<ruby><rb>気持</rb><rt>きも</rt></ruby>ち。また、その<ruby><rb>気持</rb><rt>きも</rt></ruby>ちを<ruby><rb>表</rb><rt>あらわ</rt></ruby>すこと。",
+          "hyouki": [
+            "感謝"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "（<ruby><rb>体</rb><rt>からだ</rt></ruby>や<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが）がまんできないほど<ruby><rb>苦</rb><rt>くる</rt></ruby>しい。",
+          "hyouki": [
+            "つらい"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>十分</rb><rt>じゅうぶん</rt></ruby>に<ruby><rb>満足</rb><rt>まんぞく</rt></ruby>している<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。<ruby><rb>幸福</rb><rt>こうふく</rt></ruby>。",
+          "hyouki": [
+            "幸せ"
+          ]
+        }
+      ]
+    }
+  }
+}

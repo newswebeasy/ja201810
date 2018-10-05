@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>住</rb><rt>す</rt></ruby>まい。<ruby><rb>宮城</rb><rt>きゅうじょう</rt></ruby>。",
+          "hyouki": [
+            "皇居"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>雨</rb><rt>あめ</rt></ruby>などを<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために、<ruby><rb>家</rb><rt>いえ</rt></ruby>をおおうもの。",
+          "hyouki": [
+            "屋根"
+          ]
+        },
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>をおおうもの。",
+          "hyouki": [
+            "屋根"
+          ]
+        },
+        {
+          "def": "いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "屋根"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "すきとおっていること。",
+          "hyouki": [
+            "透明"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>西洋料理</rb><rt>せいようりょうり</rt></ruby>などを<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>料理人</rb><rt>りょうりにん</rt></ruby>。",
+          "hyouki": [
+            "コック"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "あふれて<ruby><rb>流</rb><rt>なが</rt></ruby>れ<ruby><rb>出</rb><rt>で</rt></ruby>る。もれて<ruby><rb>外</rb><rt>そと</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>る。",
+          "hyouki": [
+            "こぼれる"
+          ]
+        },
+        {
+          "def": "こわれる。<ruby><rb>欠</rb><rt>か</rt></ruby>ける。",
+          "hyouki": [
+            "こぼれる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>こうまでつきぬけている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弱</rb><rt>よわ</rt></ruby>いところ。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>損</rb><rt>そん</rt></ruby>。<ruby><rb>不足</rb><rt>ふそく</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>声</rb><rt>こえ</rt></ruby>。",
+          "hyouki": [
+            "音声"
+          ]
+        },
+        {
+          "def": "テレビなどから<ruby><rb>流</rb><rt>なが</rt></ruby>れてくる<ruby><rb>声</rb><rt>こえ</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>。",
+          "hyouki": [
+            "音声"
+          ]
+        }
+      ]
+    }
+  }
+}
