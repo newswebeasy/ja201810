@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>金</rb><rt>きん</rt></ruby>のように<ruby><rb>黄色</rb><rt>きいろ</rt></ruby>く<ruby><rb>光</rb><rt>ひか</rt></ruby>っている<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "金色"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>実物</rb><rt>じつぶつ</rt></ruby>の<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>仕組</rb><rt>しく</rt></ruby>みに<ruby><rb>似</rb><rt>に</rt></ruby>せて<ruby><rb>作</rb><rt>つく</rt></ruby>ったもの。ひながた。",
+          "hyouki": [
+            "模型"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>宝</rb><rt>たから</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>指定</rb><rt>してい</rt></ruby>し、<ruby><rb>保護</rb><rt>ほご</rt></ruby>している<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>・<ruby><rb>絵</rb><rt>え</rt></ruby>など。",
+          "hyouki": [
+            "国宝"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>金</rb><rt>きん</rt></ruby>を<ruby><rb>紙</rb><rt>かみ</rt></ruby>のようにうすくのばしたもの。",
+          "hyouki": [
+            "金箔"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>大名</rb><rt>だいみょう</rt></ruby>などが、<ruby><rb>敵</rb><rt>てき</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐために<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>大</rb><rt>おお</rt></ruby>がかりな<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "城"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>身</rb><rt>み</rt></ruby>なりなどが、はなやかなようす。",
+          "hyouki": [
+            "はで"
+          ]
+        },
+        {
+          "def": "<ruby><rb>行</rb><rt>おこな</rt></ruby>いなどが<ruby><rb>大</rb><rt>おお</rt></ruby>げさなようす。",
+          "hyouki": [
+            "はで"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ]
+    }
+  }
+}
