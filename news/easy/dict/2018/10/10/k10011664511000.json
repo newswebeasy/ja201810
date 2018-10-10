@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "クリスマスの<ruby><rb>前夜</rb><rt>ぜんや</rt></ruby>、<ruby><rb>白</rb><rt>しろ</rt></ruby>いひげを<ruby><rb>生</rb><rt>は</rt></ruby>やし、<ruby><rb>赤</rb><rt>あか</rt></ruby>い<ruby><rb>服</rb><rt>ふく</rt></ruby>を<ruby><rb>着</rb><rt>き</rt></ruby>て、<ruby><rb>子</rb><rt>こ</rt></ruby>どもたちにおくり<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>ってくると<ruby><rb>伝</rb><rt>つた</rt></ruby>えられているおじいさん。",
+          "hyouki": [
+            "サンタクロース"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>技術</rb><rt>ぎじゅつ</rt></ruby>。<ruby><rb>腕前</rb><rt>うでまえ</rt></ruby>。",
+          "hyouki": [
+            "技"
+          ]
+        },
+        {
+          "def": "すもうや<ruby><rb>柔道</rb><rt>じゅうどう</rt></ruby>などで、<ruby><rb>相手</rb><rt>あいて</rt></ruby>を<ruby><rb>負</rb><rt>ま</rt></ruby>かすための<ruby><rb>動作</rb><rt>どうさ</rt></ruby>。",
+          "hyouki": [
+            "技"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>忍術</rb><rt>にんじゅつ</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。しのびの<ruby><rb>者</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "忍者"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>利用</rb><rt>りよう</rt></ruby>できるように<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>設備</rb><rt>せつび</rt></ruby>。",
+          "hyouki": [
+            "施設"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>後</rb><rt>うし</rt></ruby>ろに<ruby><rb>入</rb><rt>はい</rt></ruby>って<ruby><rb>見</rb><rt>み</rt></ruby>えなくなる。",
+          "hyouki": [
+            "隠れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につかないようにする。",
+          "hyouki": [
+            "隠れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>名前</rb><rt>なまえ</rt></ruby>が<ruby><rb>知</rb><rt>し</rt></ruby>られていない。",
+          "hyouki": [
+            "隠れる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>後</rb><rt>うし</rt></ruby>ろに<ruby><rb>入</rb><rt>はい</rt></ruby>って<ruby><rb>見</rb><rt>み</rt></ruby>えなくなる。",
+          "hyouki": [
+            "隠れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人目</rb><rt>ひとめ</rt></ruby>につかないようにする。",
+          "hyouki": [
+            "隠れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>名前</rb><rt>なまえ</rt></ruby>が<ruby><rb>知</rb><rt>し</rt></ruby>られていない。",
+          "hyouki": [
+            "隠れる"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>罪</rb><rt>つみ</rt></ruby>をおかして、<ruby><rb>刑</rb><rt>けい</rt></ruby>の<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れておく<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "刑務所"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大</rb><rt>おお</rt></ruby>きなプロペラが、<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>りつけてあり、まっすぐ<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>飛</rb><rt>と</rt></ruby>び<ruby><rb>上</rb><rt>あ</rt></ruby>がったり、<ruby><rb>空中</rb><rt>くうちゅう</rt></ruby>にとまったりできる<ruby><rb>航空機</rb><rt>こうくうき</rt></ruby>。ヘリ。",
+          "hyouki": [
+            "ヘリコプター"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>をつくり、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>総理大臣</rb><rt>そうりだいじん</rt></ruby>と<ruby><rb>国務大臣</rb><rt>こくむだいじん</rt></ruby>とがある。",
+          "hyouki": [
+            "大臣"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ありさま。<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>身</rb><rt>み</rt></ruby>なり。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "そぶり。<ruby><rb>気配</rb><rt>けはい</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        },
+        {
+          "def": "わけ。<ruby><rb>事情</rb><rt>じじょう</rt></ruby>。",
+          "hyouki": [
+            "様子"
+          ]
+        }
+      ]
+    }
+  }
+}
