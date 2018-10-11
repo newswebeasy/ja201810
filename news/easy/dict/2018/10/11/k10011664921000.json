@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>となるもの。<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "食品"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。",
+          "hyouki": [
+            "減る"
+          ]
+        },
+        {
+          "def": "すく。",
+          "hyouki": [
+            "減る"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "おもなものの<ruby><rb>次</rb><rt>つぎ</rt></ruby>の。ひかえの。",
+          "hyouki": [
+            "副"
+          ]
+        },
+        {
+          "def": "そえるもの。つきもの。",
+          "hyouki": [
+            "副"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>都</rb><rt>と</rt></ruby>・<ruby><rb>道</rb><rt>どう</rt></ruby>・<ruby><rb>府</rb><rt>ふ</rt></ruby>・<ruby><rb>県</rb><rt>けん</rt></ruby>などの<ruby><rb>政治</rb><rt>せいじ</rt></ruby>をとる、いちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "知事"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>地下水</rb><rt>ちかすい</rt></ruby>が<ruby><rb>火山</rb><rt>かざん</rt></ruby>などの<ruby><rb>熱</rb><rt>ねつ</rt></ruby>で<ruby><rb>温</rb><rt>あたた</rt></ruby>められて、<ruby><rb>地下</rb><rt>ちか</rt></ruby>からわき<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>湯</rb><rt>ゆ</rt></ruby>。いろいろな<ruby><rb>成分</rb><rt>せいぶん</rt></ruby>がとけていて<ruby><rb>病気</rb><rt>びょうき</rt></ruby>に<ruby><rb>効</rb><rt>き</rt></ruby>く。また、その<ruby><rb>湯</rb><rt>ゆ</rt></ruby>の<ruby><rb>出</rb><rt>で</rt></ruby>る<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "温泉"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "くつに<ruby><rb>取</rb><rt>と</rt></ruby>りつけて、<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>板</rb><rt>いた</rt></ruby>。",
+          "hyouki": [
+            "スキー"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」を<ruby><rb>使</rb><rt>つか</rt></ruby>って<ruby><rb>雪</rb><rt>ゆき</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>をすべるスポーツ。",
+          "hyouki": [
+            "スキー"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>い<ruby><rb>地方</rb><rt>ちほう</rt></ruby>の<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむ<ruby><rb>二枚貝</rb><rt>にまいがい</rt></ruby>。<ruby><rb>殻</rb><rt>から</rt></ruby>は<ruby><rb>丸</rb><rt>まる</rt></ruby>い<ruby><rb>扇形</rb><rt>おうぎがた</rt></ruby>で、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>貝柱</rb><rt>かいばしら</rt></ruby>を<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする。<ruby><rb>養殖</rb><rt>ようしょく</rt></ruby>も<ruby><rb>盛</rb><rt>さか</rt></ruby>んである。",
+          "hyouki": [
+            "帆立貝"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "かたいこうらでおおわれた<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>海</rb><rt>うみ</rt></ruby>にすむタカアシガニ・ケガニや、<ruby><rb>谷川</rb><rt>たにがわ</rt></ruby>にすむサワガニなどがいる。<ruby><rb>足</rb><rt>あし</rt></ruby>が１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>あり、そのうちの２<ruby><rb>本</rb><rt>ほん</rt></ruby>がはさみになっている。",
+          "hyouki": [
+            "蟹"
+          ]
+        }
+      ]
+    }
+  }
+}

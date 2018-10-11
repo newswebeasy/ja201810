@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011666941000",
+  "news_prearranged_time": "2018-10-11 16:15:00",
+  "title": "東京都の豊洲市場がオープンする",
+  "title_with_ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>豊洲市場<rt>とよすしじょう</rt></ruby>がオープンする",
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>築地市場<rt>つきじしじょう</rt></ruby>では、８０<ruby>年<rt>ねん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>魚<rt>さかな</rt></ruby>や<ruby>野菜<rt>やさい</rt></ruby>を<ruby>売<rt>う</rt></ruby>ったり<ruby>買<rt>か</rt></ruby>ったりしてきました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181011/../20181011/K10011666941_1810110608_1810110728_01_03.jpg",
+  "news_web_movie_uri": "k10011666941_201810111211_201810111223.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011666941000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011666941000/k10011666941000.html"
+}

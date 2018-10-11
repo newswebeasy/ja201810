@@ -1,0 +1,170 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "まるい。まるい<ruby><rb>形</rb><rt>かたち</rt></ruby>。",
+          "hyouki": [
+            "円"
+          ]
+        },
+        {
+          "def": "<ruby><rb>角</rb><rt>かど</rt></ruby>が<ruby><rb>立</rb><rt>た</rt></ruby>たないでおだやかである。",
+          "hyouki": [
+            "円"
+          ]
+        },
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「￥」。",
+          "hyouki": [
+            "円"
+          ]
+        },
+        {
+          "def": "<ruby><rb>辺</rb><rt>あた</rt></ruby>り。",
+          "hyouki": [
+            "円"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>現</rb><rt>あらわ</rt></ruby>れて、<ruby><rb>見</rb><rt>み</rt></ruby>えたり<ruby><rb>聞</rb><rt>き</rt></ruby>こえたり<ruby><rb>感</rb><rt>かん</rt></ruby>じられたりするものごと。",
+          "hyouki": [
+            "現象"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>き。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>四角</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "やりかた。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。",
+          "hyouki": [
+            "方"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>温度</rb><rt>おんど</rt></ruby>が<ruby><rb>０度</rb><rt>れいど</rt></ruby>より<ruby><rb>低</rb><rt>ひく</rt></ruby>くなって、<ruby><rb>水</rb><rt>みず</rt></ruby>が<ruby><rb>固</rb><rt>かた</rt></ruby>まったもの。",
+          "hyouki": [
+            "氷"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>小</rb><rt>ちい</rt></ruby>さくて<ruby><rb>丸</rb><rt>まる</rt></ruby>いもの。",
+          "hyouki": [
+            "粒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>集</rb><rt>あつ</rt></ruby>まっているものの、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>質</rb><rt>しつ</rt></ruby>や<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。",
+          "hyouki": [
+            "粒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>小</rb><rt>ちい</rt></ruby>さくて<ruby><rb>丸</rb><rt>まる</rt></ruby>いものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "粒"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>、<ruby><rb>電波</rb><rt>でんぱ</rt></ruby>などが<ruby><rb>物</rb><rt>もの</rt></ruby>に<ruby><rb>当</rb><rt>あ</rt></ruby>たって、はね<ruby><rb>返</rb><rt>かえ</rt></ruby>ること。",
+          "hyouki": [
+            "反射"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>周</rb><rt>まわ</rt></ruby>りに<ruby><rb>比</rb><rt>くら</rt></ruby>べて<ruby><rb>気圧</rb><rt>きあつ</rt></ruby>の<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。この<ruby><rb>付近</rb><rt>ふきん</rt></ruby>はふつう、<ruby><rb>天気</rb><rt>てんき</rt></ruby>が<ruby><rb>悪</rb><rt>わる</rt></ruby>い。",
+          "hyouki": [
+            "低気圧"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>戦場</rb><rt>せんじょう</rt></ruby>で、<ruby><rb>敵</rb><rt>てき</rt></ruby>にいちばん<ruby><rb>近</rb><rt>ちか</rt></ruby>い<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "前線"
+          ]
+        },
+        {
+          "def": "<ruby><rb>暖</rb><rt>あたた</rt></ruby>かい<ruby><rb>空気</rb><rt>くうき</rt></ruby>のかたまりと<ruby><rb>冷</rb><rt>つめ</rt></ruby>たい<ruby><rb>空気</rb><rt>くうき</rt></ruby>のかたまりの<ruby><rb>境目</rb><rt>さかいめ</rt></ruby>。この<ruby><rb>辺</rb><rt>あた</rt></ruby>りは、<ruby><rb>天気</rb><rt>てんき</rt></ruby>が<ruby><rb>悪</rb><rt>わる</rt></ruby>い。",
+          "hyouki": [
+            "前線"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ]
+    }
+  }
+}
