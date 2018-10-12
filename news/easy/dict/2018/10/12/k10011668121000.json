@@ -1,0 +1,118 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>見</rb><rt>み</rt></ruby>たり<ruby><rb>聞</rb><rt>き</rt></ruby>いたりしたときに、<ruby><rb>心</rb><rt>こころ</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>感</rb><rt>かん</rt></ruby>じ。",
+          "hyouki": [
+            "印象"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>考</rb><rt>かんが</rt></ruby>えや<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。せろんちょうさ。",
+          "hyouki": [
+            "世論調査"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>要点</rb><rt>ようてん</rt></ruby>。",
+          "hyouki": [
+            "ポイント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>得点</rb><rt>とくてん</rt></ruby>。<ruby><rb>点数</rb><rt>てんすう</rt></ruby>。",
+          "hyouki": [
+            "ポイント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>線路</rb><rt>せんろ</rt></ruby>の<ruby><rb>分</rb><rt>わ</rt></ruby>かれ<ruby><rb>目</rb><rt>め</rt></ruby>で、<ruby><rb>車両</rb><rt>しゃりょう</rt></ruby>を<ruby><rb>別</rb><rt>べつ</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れかえる<ruby><rb>仕</rb><rt>し</rt></ruby>かけ。<ruby><rb>転</rb><rt>てん</rt></ruby>てつ<ruby><rb>機</rb><rt>き</rt></ruby>。",
+          "hyouki": [
+            "ポイント"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>栄</rb><rt>さか</rt></ruby>えていくこと。<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが、のび<ruby><rb>広</rb><rt>ひろ</rt></ruby>がること。",
+          "hyouki": [
+            "発展"
+          ]
+        },
+        {
+          "def": "<ruby><rb>次</rb><rt>つぎ</rt></ruby>の<ruby><rb>段階</rb><rt>だんかい</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>むこと。",
+          "hyouki": [
+            "発展"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>をする<ruby><rb>上</rb><rt>うえ</rt></ruby>で、<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>対</rb><rt>たい</rt></ruby>して<ruby><rb>失礼</rb><rt>しつれい</rt></ruby>にならないようにするための<ruby><rb>作法</rb><rt>さほう</rt></ruby>。",
+          "hyouki": [
+            "礼儀"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>行儀</rb><rt>ぎょうぎ</rt></ruby>。<ruby><rb>作法</rb><rt>さほう</rt></ruby>。",
+          "hyouki": [
+            "マナー"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ]
+    }
+  }
+}

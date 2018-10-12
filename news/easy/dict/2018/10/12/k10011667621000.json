@@ -1,0 +1,52 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>核分裂</rb><rt>かくぶんれつ</rt></ruby>や<ruby><rb>核融合</rb><rt>かくゆうごう</rt></ruby>によって<ruby><rb>出</rb><rt>で</rt></ruby>るエネルギーを<ruby><rb>利用</rb><rt>りよう</rt></ruby>した<ruby><rb>兵器</rb><rt>へいき</rt></ruby>。<ruby><rb>原子爆弾</rb><rt>げんしばくだん</rt></ruby>や、<ruby><rb>水素爆弾</rb><rt>すいそばくだん</rt></ruby>など。",
+          "hyouki": [
+            "核兵器"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>破裂</rb><rt>はれつ</rt></ruby>すること。",
+          "hyouki": [
+            "爆発"
+          ]
+        },
+        {
+          "def": "おさえていた<ruby><rb>気持</rb><rt>きも</rt></ruby>ちが、<ruby><rb>一度</rb><rt>いちど</rt></ruby>に<ruby><rb>激</rb><rt>はげ</rt></ruby>しく<ruby><rb>出</rb><rt>で</rt></ruby>ること。",
+          "hyouki": [
+            "爆発"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>図書館</rb><rt>としょかん</rt></ruby>・<ruby><rb>博物館</rb><rt>はくぶつかん</rt></ruby>・<ruby><rb>美術館</rb><rt>びじゅつかん</rt></ruby>など、「<ruby><rb>館</rb><rt>かん</rt></ruby>」のつく<ruby><rb>所</rb><rt>ところ</rt></ruby>で、もっとも<ruby><rb>責任</rb><rt>せきにん</rt></ruby>のある<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "館長"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>文字</rb><rt>もじ</rt></ruby>。アラビア<ruby><rb>数字</rb><rt>すうじ</rt></ruby>（<ruby><rb>算用数字</rb><rt>さんようすうじ</rt></ruby>）、<ruby><rb>漢数字</rb><rt>かんすうじ</rt></ruby>、ローマ<ruby><rb>数字</rb><rt>すうじ</rt></ruby>などがある。",
+          "hyouki": [
+            "数字"
+          ]
+        }
+      ]
+    }
+  }
+}
