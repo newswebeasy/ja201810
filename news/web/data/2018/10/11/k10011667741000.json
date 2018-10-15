@@ -29,7 +29,14 @@
       "duration": 0
     }
   ],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011667741000/k10011667741000.html",
+      "title": "東京大学がベトナムの大学で教える「優秀な学生を集めたい」",
+      "time": "NEWSWEB EASY 10月15日",
+      "datetime": "2018-10-15"
+    }
+  ],
   "word": [],
   "news_id": "k10011667741000",
   "yyyy": "2018",
