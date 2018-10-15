@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "たいへんにすぐれているようす。",
+          "hyouki": [
+            "優秀"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>で<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>するために、<ruby><rb>教材</rb><rt>きょうざい</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>本</rb><rt>ほん</rt></ruby>。",
+          "hyouki": [
+            "教科書"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>や<ruby><rb>程度</rb><rt>ていど</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくなる。",
+          "hyouki": [
+            "減る"
+          ]
+        },
+        {
+          "def": "すく。",
+          "hyouki": [
+            "減る"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>かれている、それぞれの<ruby><rb>範囲</rb><rt>はんい</rt></ruby>。<ruby><rb>区域</rb><rt>くいき</rt></ruby>。",
+          "hyouki": [
+            "分野"
+          ]
+        }
+      ]
+    }
+  }
+}
