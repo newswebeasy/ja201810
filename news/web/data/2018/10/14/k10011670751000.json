@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "https://www3.nhk.or.jp/news/easy/k10011670751000/k10011670751000.html",
+      "title": "レジで袋をもらうためにお金を払うことになりそう",
+      "time": "NEWSWEB EASY 10月16日",
+      "datetime": "2018-10-16"
+    }
+  ],
   "word": [
     {
       "link": "word/0000417.html",

@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ウミウを<ruby><rb>飼</rb><rt>か</rt></ruby>いならして、アユなどの<ruby><rb>魚</rb><rt>さかな</rt></ruby>をとること。<ruby><rb>夜</rb><rt>よる</rt></ruby>は、かがり<ruby><rb>火</rb><rt>び</rt></ruby>をたく。<ruby><rb>長良川</rb><rt>ながらがわ</rt></ruby>のう<ruby><rb>飼</rb><rt>か</rt></ruby>いが<ruby><rb>有名</rb><rt>ゆうめい</rt></ruby>。",
+          "hyouki": [
+            "う飼い"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>や<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>湖</rb><rt>みずうみ</rt></ruby>にすむ<ruby><rb>黒色</rb><rt>こくしょく</rt></ruby>の<ruby><rb>水鳥</rb><rt>みずとり</rt></ruby>。ウミウ・カワウなどがいる。<ruby><rb>首</rb><rt>くび</rt></ruby>が<ruby><rb>長</rb><rt>なが</rt></ruby>く、<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>いくちばしを<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>水</rb><rt>みず</rt></ruby>にもぐって<ruby><rb>魚</rb><rt>さかな</rt></ruby>をとらえ、まるのみ（うのみ）にするので、う<ruby><rb>飼</rb><rt>か</rt></ruby>いに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "う"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んだり、<ruby><rb>束</rb><rt>たば</rt></ruby>ねたりするのに<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>太</rb><rt>ふと</rt></ruby>い<ruby><rb>糸</rb><rt>いと</rt></ruby>のようなもの。",
+          "hyouki": [
+            "ひも"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "はなれないように、ほかのものに<ruby><rb>結</rb><rt>むす</rt></ruby>びつける。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        },
+        {
+          "def": "はなれているものを、<ruby><rb>結</rb><rt>むす</rt></ruby>び<ruby><rb>合</rb><rt>あ</rt></ruby>わせてひと<ruby><rb>続</rb><rt>つづ</rt></ruby>きのものにする。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>長</rb><rt>なが</rt></ruby>く<ruby><rb>続</rb><rt>つづ</rt></ruby>くようにする。",
+          "hyouki": [
+            "つなぐ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "潜る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>りこむ。",
+          "hyouki": [
+            "潜る"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "きれいな<ruby><rb>川</rb><rt>かわ</rt></ruby>にすむ<ruby><rb>魚</rb><rt>さかな</rt></ruby>。<ruby><rb>夏</rb><rt>なつ</rt></ruby>、う<ruby><rb>飼</rb><rt>か</rt></ruby>いやつりなどでとる。かおりがよく<ruby><rb>食用</rb><rt>しょくよう</rt></ruby>にする。",
+          "hyouki": [
+            "鮎"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ほめるときや、<ruby><rb>賛成</rb><rt>さんせい</rt></ruby>のときなどに、<ruby><rb>手</rb><rt>て</rt></ruby>のひらを<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "拍手"
+          ]
+        }
+      ]
+    }
+  }
+}

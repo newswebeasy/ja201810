@@ -1,0 +1,110 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>組織</rb><rt>そしき</rt></ruby>の<ruby><rb>全員</rb><rt>ぜんいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まる<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "大会"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>争</rb><rt>あらそ</rt></ruby>う<ruby><rb>遊</rb><rt>あそ</rt></ruby>び。",
+          "hyouki": [
+            "ゲーム"
+          ]
+        },
+        {
+          "def": "<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "ゲーム"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ものごとをいっしょにするときのもう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "相手"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>ったりするときの、もう<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>の<ruby><rb>側</rb><rt>がわ</rt></ruby>。",
+          "hyouki": [
+            "相手"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "挟む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>両側</rb><rt>りょうがわ</rt></ruby>からおさえる。",
+          "hyouki": [
+            "挟む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。",
+          "hyouki": [
+            "挟む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>口出</rb><rt>くちだ</rt></ruby>しする。",
+          "hyouki": [
+            "挟む"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>に<ruby><rb>出</rb><rt>で</rt></ruby>るために<ruby><rb>選</rb><rt>えら</rt></ruby>ばれた<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "選手"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>最後</rb><rt>さいご</rt></ruby>の<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "決勝"
+          ]
+        },
+        {
+          "def": "<ruby><rb>第</rb><rt>だい</rt></ruby><ruby><rb>一位</rb><rt>いちい</rt></ruby>のものを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "決勝"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。",
+          "hyouki": [
+            "記録"
+          ]
+        },
+        {
+          "def": "<ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。",
+          "hyouki": [
+            "記録"
+          ]
+        }
+      ]
+    }
+  }
+}
