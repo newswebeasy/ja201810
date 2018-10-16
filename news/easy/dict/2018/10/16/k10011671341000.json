@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>縦</rb><rt>たて</rt></ruby>・<ruby><rb>横</rb><rt>よこ</rt></ruby>に１０<ruby><rb>本</rb><rt>ぽん</rt></ruby>の<ruby><rb>線</rb><rt>せん</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いた<ruby><rb>板</rb><rt>いた</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>で、２０<ruby><rb>枚</rb><rt>まい</rt></ruby>ずつのこまを<ruby><rb>動</rb><rt>うご</rt></ruby>かし、<ruby><rb>相手</rb><rt>あいて</rt></ruby>の<ruby><rb>王</rb><rt>おう</rt></ruby>を<ruby><rb>先</rb><rt>さき</rt></ruby>に<ruby><rb>取</rb><rt>と</rt></ruby>るゲーム。",
+          "hyouki": [
+            "将棋"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>でいちばんすぐれた<ruby><rb>記録</rb><rt>きろく</rt></ruby>。",
+          "hyouki": [
+            "世界記録"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>馬</rb><rt>うま</rt></ruby>。",
+          "hyouki": [
+            "駒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>将棋</rb><rt>しょうぎ</rt></ruby>などで、<ruby><rb>盤</rb><rt>ばん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>並</rb><rt>なら</rt></ruby>べて<ruby><rb>動</rb><rt>うご</rt></ruby>かすもの。",
+          "hyouki": [
+            "駒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弦楽器</rb><rt>げんがっき</rt></ruby>の、<ruby><rb>弦</rb><rt>げん</rt></ruby>を<ruby><rb>支</rb><rt>ささ</rt></ruby>える<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>木片</rb><rt>もくへん</rt></ruby>。",
+          "hyouki": [
+            "駒"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>いをしかけること。チャレンジ。",
+          "hyouki": [
+            "挑戦"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "参加"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ]
+    }
+  }
+}

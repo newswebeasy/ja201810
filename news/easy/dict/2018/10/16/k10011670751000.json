@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>や<ruby><rb>布</rb><rt>ぬの</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>入</rb><rt>い</rt></ruby>れて、<ruby><rb>口</rb><rt>くち</rt></ruby>をしめるようにした<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "袋"
+          ]
+        },
+        {
+          "def": "「<span class=\"dic_sansyogogi\">1)</span>」に<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。",
+          "hyouki": [
+            "袋"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>圧力</rb><rt>あつりょく</rt></ruby>を<ruby><rb>加</rb><rt>くわ</rt></ruby>えて、<ruby><rb>自由</rb><rt>じゆう</rt></ruby>に<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>ることができる<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に<ruby><rb>合成樹脂</rb><rt>ごうせいじゅし</rt></ruby>を<ruby><rb>指</rb><rt>さ</rt></ruby>す。<ruby><rb>使</rb><rt>つか</rt></ruby>い<ruby><rb>道</rb><rt>みち</rt></ruby>が<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。",
+          "hyouki": [
+            "プラスチック"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。",
+          "hyouki": [
+            "減らす"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "いらなくなった<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>使</rb><rt>つか</rt></ruby>えなくなった<ruby><rb>物</rb><rt>もの</rt></ruby>を、もう<ruby><rb>一度利用</rb><rt>いちどりよう</rt></ruby>できるようにすること。",
+          "hyouki": [
+            "リサイクル"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「コンビニエンスストア」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。",
+          "hyouki": [
+            "コンビニ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ]
+    }
+  }
+}
