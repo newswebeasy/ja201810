@@ -1,0 +1,74 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>縄文式土器</rb><rt>じょうもんしきどき</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>って<ruby><rb>使</rb><rt>つか</rt></ruby>っていた<ruby><rb>時代</rb><rt>じだい</rt></ruby>。１２０００<ruby><rb>年</rb><rt>ねん</rt></ruby>ほど<ruby><rb>前</rb><rt>まえ</rt></ruby>から２３００<ruby><rb>年前</rb><rt>ねんまえ</rt></ruby>ごろの<ruby><rb>間</rb><rt>あいだ</rt></ruby>。",
+          "hyouki": [
+            "縄文時代"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>岩</rb><rt>いわ</rt></ruby>や<ruby><rb>石</rb><rt>いし</rt></ruby>がくだけて、<ruby><rb>粉</rb><rt>こな</rt></ruby>になったもの。どろ。",
+          "hyouki": [
+            "土"
+          ]
+        },
+        {
+          "def": "<ruby><rb>陸地</rb><rt>りくち</rt></ruby>の<ruby><rb>表面</rb><rt>ひょうめん</rt></ruby>。<ruby><rb>地面</rb><rt>じめん</rt></ruby>。",
+          "hyouki": [
+            "土"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>宝</rb><rt>たから</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>指定</rb><rt>してい</rt></ruby>し、<ruby><rb>保護</rb><rt>ほご</rt></ruby>している<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>彫刻</rb><rt>ちょうこく</rt></ruby>・<ruby><rb>絵</rb><rt>え</rt></ruby>など。",
+          "hyouki": [
+            "国宝"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>から<ruby><rb>保護</rb><rt>ほご</rt></ruby>するように<ruby><rb>指定</rb><rt>してい</rt></ruby>された、<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>建築物</rb><rt>けんちくぶつ</rt></ruby>・<ruby><rb>美術品</rb><rt>びじゅつひん</rt></ruby>などの<ruby><rb>文化財</rb><rt>ぶんかざい</rt></ruby>。<ruby><rb>特</rb><rt>とく</rt></ruby>にすぐれたものは<ruby><rb>国宝</rb><rt>こくほう</rt></ruby>に<ruby><rb>指定</rb><rt>してい</rt></ruby>される。<ruby><rb>重文</rb><rt>じゅうぶん</rt></ruby>。",
+          "hyouki": [
+            "重要文化財"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "かざりにする<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>。",
+          "hyouki": [
+            "模様"
+          ]
+        },
+        {
+          "def": "ようす。ありさま。",
+          "hyouki": [
+            "模様"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>を、<ruby><rb>取材</rb><rt>しゅざい</rt></ruby>したり<ruby><rb>書</rb><rt>か</rt></ruby>いたりする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "記者"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あるものごとに、<ruby><rb>心</rb><rt>こころ</rt></ruby>を<ruby><rb>強</rb><rt>つよ</rt></ruby>く<ruby><rb>動</rb><rt>うご</rt></ruby>かされること。",
+          "hyouki": [
+            "感動"
+          ]
+        }
+      ]
+    }
+  }
+}

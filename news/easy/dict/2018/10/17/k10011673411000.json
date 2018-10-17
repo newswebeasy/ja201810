@@ -1,0 +1,154 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "あとに<ruby><rb>残</rb><rt>のこ</rt></ruby>るようにする。<ruby><rb>余</rb><rt>あま</rt></ruby>す。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>使</rb><rt>つか</rt></ruby>わないでおく。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "あとにとどまらせる。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "のちの<ruby><rb>世</rb><rt>よ</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "すもうで、もちこたえてふん<ruby><rb>張</rb><rt>ば</rt></ruby>る。",
+          "hyouki": [
+            "残す"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地域"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。",
+          "hyouki": [
+            "世界遺産"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>える<ruby><rb>木</rb><rt>き</rt></ruby>。<ruby><rb>五月</rb><rt>ごがつ</rt></ruby>ごろ、うす<ruby><rb>緑色</rb><rt>みどりいろ</rt></ruby>の<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>秋</rb><rt>あき</rt></ruby>にドングリがなり、<ruby><rb>葉</rb><rt>は</rt></ruby>が<ruby><rb>落</rb><rt>お</rt></ruby>ちる。<ruby><rb>家具</rb><rt>かぐ</rt></ruby>や<ruby><rb>建築</rb><rt>けんちく</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。",
+          "hyouki": [
+            "ぶな"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>がいたむ。",
+          "hyouki": [
+            "腐る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>などがいたんでぼろぼろになる。",
+          "hyouki": [
+            "腐る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>がなくなる。",
+          "hyouki": [
+            "腐る"
+          ]
+        },
+        {
+          "def": "すっかりだめになる。",
+          "hyouki": [
+            "腐る"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>村</rb><rt>むら</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>し、<ruby><rb>村</rb><rt>むら</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "村長"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>・<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>草</rb><rt>くさ</rt></ruby>・<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>星</rb><rt>ほし</rt></ruby>・<ruby><rb>雲</rb><rt>くも</rt></ruby>・<ruby><rb>雨</rb><rt>あめ</rt></ruby>・<ruby><rb>雪</rb><rt>ゆき</rt></ruby>など、<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>作</rb><rt>つく</rt></ruby>ったものでない<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "もともとの<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>を<ruby><rb>備</rb><rt>そな</rt></ruby>えていること。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "わざとらしくないようす。",
+          "hyouki": [
+            "自然"
+          ]
+        },
+        {
+          "def": "ひとりでに。いつのまにか。",
+          "hyouki": [
+            "自然"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あとに<ruby><rb>残</rb><rt>のこ</rt></ruby>るようにする。<ruby><rb>余</rb><rt>あま</rt></ruby>す。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>使</rb><rt>つか</rt></ruby>わないでおく。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "あとにとどまらせる。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "のちの<ruby><rb>世</rb><rt>よ</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。",
+          "hyouki": [
+            "残す"
+          ]
+        },
+        {
+          "def": "すもうで、もちこたえてふん<ruby><rb>張</rb><rt>ば</rt></ruby>る。",
+          "hyouki": [
+            "残す"
+          ]
+        }
+      ]
+    }
+  }
+}
