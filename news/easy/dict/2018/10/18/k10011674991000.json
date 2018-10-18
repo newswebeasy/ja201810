@@ -1,0 +1,76 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>を、<ruby><rb>四角</rb><rt>しかく</rt></ruby>に<ruby><rb>小</rb><rt>ちい</rt></ruby>さく<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。<ruby><rb>記入</rb><rt>きにゅう</rt></ruby>したり、<ruby><rb>整理</rb><rt>せいり</rt></ruby>するときなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "「クレジットカード」「キャッシュカード」などの<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "トランプ（の<ruby><rb>札</rb><rt>ふだ</rt></ruby>）。",
+          "hyouki": [
+            "カード"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>などの、<ruby><rb>試合</rb><rt>しあい</rt></ruby>の<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "カード"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>箱</rb><rt>はこ</rt></ruby>。<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "ケース"
+          ]
+        },
+        {
+          "def": "<ruby><rb>場合</rb><rt>ばあい</rt></ruby>。できごと。",
+          "hyouki": [
+            "ケース"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールの、ピッチャーとキャッチャー。",
+          "hyouki": [
+            "バッテリー"
+          ]
+        },
+        {
+          "def": "<ruby><rb>充電</rb><rt>じゅうでん</rt></ruby>して、くり<ruby><rb>返</rb><rt>かえ</rt></ruby>し<ruby><rb>使</rb><rt>つか</rt></ruby>える<ruby><rb>電池</rb><rt>でんち</rt></ruby>。<ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>。",
+          "hyouki": [
+            "バッテリー"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "コンピューターなどを<ruby><rb>使</rb><rt>つか</rt></ruby>って、メッセージやデータなどのやりとりをする<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>電子</rb><rt>でんし</rt></ruby>メール。メール。",
+          "hyouki": [
+            "Eメール"
+          ]
+        }
+      ]
+    }
+  }
+}
