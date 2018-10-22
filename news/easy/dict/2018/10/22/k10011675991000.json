@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ふだ。",
+          "hyouki": [
+            "札"
+          ]
+        },
+        {
+          "def": "<ruby><rb>紙</rb><rt>かみ</rt></ruby>のお<ruby><rb>金</rb><rt>かね</rt></ruby>。",
+          "hyouki": [
+            "札"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>青</rb><rt>あお</rt></ruby>とむらさきの<ruby><rb>混</rb><rt>ま</rt></ruby>ざった<ruby><rb>色</rb><rt>いろ</rt></ruby>。",
+          "hyouki": [
+            "紺"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す<ruby><rb>文字</rb><rt>もじ</rt></ruby>。アラビア<ruby><rb>数字</rb><rt>すうじ</rt></ruby>（<ruby><rb>算用数字</rb><rt>さんようすうじ</rt></ruby>）、<ruby><rb>漢数字</rb><rt>かんすうじ</rt></ruby>、ローマ<ruby><rb>数字</rb><rt>すうじ</rt></ruby>などがある。",
+          "hyouki": [
+            "数字"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ローマ<ruby><rb>字</rb><rt>じ</rt></ruby>を、<ruby><rb>A</rb><rt>エー</rt></ruby>・<ruby><rb>B</rb><rt>ビー</rt></ruby>・<ruby><rb>C</rb><rt>シー</rt></ruby>…というふうに<ruby><rb>Z</rb><rt>ゼット</rt></ruby>まで<ruby><rb>順</rb><rt>じゅん</rt></ruby>に<ruby><rb>並</rb><rt>なら</rt></ruby>べたもの。２６<ruby><rb>文字</rb><rt>もじ</rt></ruby>ある。",
+          "hyouki": [
+            "アルファベット"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>文字</rb><rt>もじ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>版</rb><rt>はん</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>印刷機</rb><rt>いんさつき</rt></ruby>でインクをつけて<ruby><rb>同</rb><rt>おな</rt></ruby>じものをたくさん<ruby><rb>刷</rb><rt>す</rt></ruby>ること。",
+          "hyouki": [
+            "印刷"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ]
+    }
+  }
+}

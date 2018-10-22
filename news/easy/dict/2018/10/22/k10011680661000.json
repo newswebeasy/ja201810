@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>などが、<ruby><rb>線路</rb><rt>せんろ</rt></ruby>から<ruby><rb>外</rb><rt>はず</rt></ruby>れること。",
+          "hyouki": [
+            "脱線"
+          ]
+        },
+        {
+          "def": "<ruby><rb>話</rb><rt>はなし</rt></ruby>や<ruby><rb>行動</rb><rt>こうどう</rt></ruby>が<ruby><rb>横道</rb><rt>よこみち</rt></ruby>へそれること。",
+          "hyouki": [
+            "脱線"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>機械</rb><rt>きかい</rt></ruby>を<ruby><rb>動</rb><rt>うご</rt></ruby>かす<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "運転手"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "きつくない。ゆったりしている。",
+          "hyouki": [
+            "緩い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>でない。ゆるやかだ。",
+          "hyouki": [
+            "緩い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>厳</rb><rt>きび</rt></ruby>しくない。",
+          "hyouki": [
+            "緩い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しくない。",
+          "hyouki": [
+            "緩い"
+          ]
+        },
+        {
+          "def": "かたさが<ruby><rb>足</rb><rt>た</rt></ruby>りない。",
+          "hyouki": [
+            "緩い"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>曲</rb><rt>ま</rt></ruby>がること。また、<ruby><rb>曲</rb><rt>ま</rt></ruby>がっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "カーブ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>投手</rb><rt>とうしゅ</rt></ruby>の<ruby><rb>投</rb><rt>な</rt></ruby>げる<ruby><rb>球</rb><rt>たま</rt></ruby>が<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>の<ruby><rb>近</rb><rt>ちか</rt></ruby>くで<ruby><rb>曲</rb><rt>ま</rt></ruby>がること。また、その<ruby><rb>球</rb><rt>たま</rt></ruby>。",
+          "hyouki": [
+            "カーブ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>速</rb><rt>はや</rt></ruby>さ。<ruby><rb>速力</rb><rt>そくりょく</rt></ruby>。",
+          "hyouki": [
+            "スピード"
+          ]
+        }
+      ]
+    }
+  }
+}
