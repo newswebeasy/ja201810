@@ -1,0 +1,89 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>武芸</rb><rt>ぶげい</rt></ruby>を<ruby><rb>身</rb><rt>み</rt></ruby>につけて、いくさで<ruby><rb>戦</rb><rt>たたか</rt></ruby>った<ruby><rb>人</rb><rt>ひと</rt></ruby>。さむらい。",
+          "hyouki": [
+            "武士"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>うこと。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。<ruby><rb>争</rb><rt>あらそ</rt></ruby>い。",
+          "hyouki": [
+            "戦い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "戦い"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>姿</rb><rt>すがた</rt></ruby>。<ruby><rb>形</rb><rt>かたち</rt></ruby>。",
+          "hyouki": [
+            "格好","・",
+            "恰好"
+          ]
+        },
+        {
+          "def": "ていさい。",
+          "hyouki": [
+            "格好","・",
+            "恰好"
+          ]
+        },
+        {
+          "def": "ちょうど<ruby><rb>合</rb><rt>あ</rt></ruby>っているようす。",
+          "hyouki": [
+            "格好","・",
+            "恰好"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>に<ruby><rb>入</rb><rt>はい</rt></ruby>ること。",
+          "hyouki": [
+            "参加"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>知恵</rb><rt>ちえ</rt></ruby>では<ruby><rb>考</rb><rt>かんが</rt></ruby>えられない、ふしぎな<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つと<ruby><rb>信</rb><rt>しん</rt></ruby>じられているもの。",
+          "hyouki": [
+            "神"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>神</rb><rt>かみ</rt></ruby>をまつるとき、<ruby><rb>神</rb><rt>かみ</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる、<ruby><rb>舞</rb><rt>まい</rt></ruby>や<ruby><rb>音楽</rb><rt>おんがく</rt></ruby>。",
+          "hyouki": [
+            "神楽"
+          ]
+        }
+      ]
+    }
+  }
+}
