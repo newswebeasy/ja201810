@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011682681000",
+  "news_prearranged_time": "2018-10-24 17:00:00",
+  "title": "２０２０年の東京オリンピックの映画を河瀬直美さんが作る",
+  "title_with_ruby": "２０２０<ruby>年<rt>ねん</rt></ruby>の<ruby>東京<rt>とうきょう</rt></ruby>オリンピックの<ruby>映画<rt>えいが</rt></ruby>を<ruby>河瀬<rt>かわせ</rt></ruby><ruby>直美<rt>なおみ</rt></ruby>さんが<ruby>作<rt>つく</rt></ruby>る",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>オリンピック</a>ではいつも<ruby>映画<rt>えいが</rt></ruby>を<ruby>作<rt>つく</rt></ruby>って、どのような<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>大会<rt>たいかい</rt></ruby></a>だったか<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>残<rt>のこ</rt></ruby>し</a>ています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181023/../20181023/K10011682681_1810231805_1810231811_01_02.jpg",
+  "news_web_movie_uri": "k10011682681_201810231817_201810231820.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011682681000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011682681000/k10011682681000.html"
+}

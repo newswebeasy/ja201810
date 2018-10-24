@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011680681000",
+  "news_prearranged_time": "2018-10-24 11:30:00",
+  "title": "世界の新しい眼鏡を紹介する展示会",
+  "title_with_ruby": "<ruby>世界<rt>せかい</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>眼鏡<rt>めがね</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<ruby>展示<rt>てんじ</rt></ruby><ruby>会<rt>かい</rt></ruby>",
+  "outline_with_ruby": "<p><ruby>世界<rt>せかい</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>眼鏡<rt>めがね</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>する<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>展示<rt>てんじ</rt></ruby></a><ruby>会<rt>かい</rt></ruby>が、<ruby>東京都<rt>とうきょうと</rt></ruby><ruby>江東区<rt>こうとうく</rt></ruby>にある<ruby>東京<rt>とうきょう</rt></ruby>ビッグサイトで<ruby>開<rt>ひら</rt></ruby>かれています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181022/../20181022/K10011680681_1810221252_1810221259_01_03.jpg",
+  "news_web_movie_uri": "k10011680681_201810221302_201810221302.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011680681000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011680681000/k10011680681000.html"
+}
