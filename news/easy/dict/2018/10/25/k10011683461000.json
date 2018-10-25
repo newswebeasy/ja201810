@@ -1,0 +1,98 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>深</rb><rt>ふか</rt></ruby>く<ruby><rb>入</rb><rt>はい</rt></ruby>る。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>がない。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>太陽</rb><rt>たいよう</rt></ruby>や<ruby><rb>月</rb><rt>つき</rt></ruby>が<ruby><rb>地平線</rb><rt>ちへいせん</rt></ruby>にかくれる。",
+          "hyouki": [
+            "沈む"
+          ]
+        },
+        {
+          "def": "よくない<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "沈む"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>競技</rb><rt>きょうぎ</rt></ruby>や<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をするときの、<ruby><rb>組</rb><rt>くみ</rt></ruby>や<ruby><rb>団体</rb><rt>だんたい</rt></ruby>。",
+          "hyouki": [
+            "チーム"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ヨーロッパとアジアとの<ruby><rb>境</rb><rt>さかい</rt></ruby>にある<ruby><rb>内海</rb><rt>うちうみ</rt></ruby>。<ruby><rb>南西部</rb><rt>なんせいぶ</rt></ruby>が<ruby><rb>地中海</rb><rt>ちちゅうかい</rt></ruby>とつながっている。",
+          "hyouki": [
+            "黒海"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>柱</rb><rt>はしら</rt></ruby>に<ruby><rb>張</rb><rt>は</rt></ruby>る、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>布</rb><rt>ぬの</rt></ruby>。これに<ruby><rb>風</rb><rt>かぜ</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けて<ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>走</rb><rt>はし</rt></ruby>らせる。",
+          "hyouki": [
+            "帆"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>のほばしら。",
+          "hyouki": [
+            "マスト"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>口</rb><rt>くち</rt></ruby>がせまくて、<ruby><rb>胴</rb><rt>どう</rt></ruby>が<ruby><rb>丸</rb><rt>まる</rt></ruby>くふくらんだ<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "つぼ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>深</rb><rt>ふか</rt></ruby>くくぼんでいる<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "つぼ"
+          ]
+        },
+        {
+          "def": "あらかじめ<ruby><rb>考</rb><rt>かんが</rt></ruby>えておいたこと。",
+          "hyouki": [
+            "つぼ"
+          ]
+        },
+        {
+          "def": "だいじな<ruby><rb>点</rb><rt>てん</rt></ruby>。<ruby><rb>急所</rb><rt>きゅうしょ</rt></ruby>。",
+          "hyouki": [
+            "つぼ"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011684171000",
+  "news_prearranged_time": "2018-10-25 17:00:00",
+  "title": "トヨタ　ドアの鏡の代わりにカメラがついた車",
+  "title_with_ruby": "トヨタ　ドアの<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりにカメラがついた<ruby>車<rt>くるま</rt></ruby>",
+  "outline_with_ruby": "<p>トヨタ<ruby>自動車<rt>じどうしゃ</rt></ruby>は<ruby>２４日<rt>にじゅうよっか</rt></ruby>、ドアに<a href='javascript:void(0)' class='dicWin' id='id-0001'>ついて</a>いる<ruby>鏡<rt>かがみ</rt></ruby>の<ruby>代<rt>か</rt></ruby>わりにカメラが<a href='javascript:void(0)' class='dicWin' id='id-0000'>つい</a>た<ruby>車<rt>くるま</rt></ruby>を<ruby>売<rt>う</rt></ruby>り<ruby>始<rt>はじ</rt></ruby>めました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181024/../20181024/K10011684171_1810241832_1810241847_01_03.jpg",
+  "news_web_movie_uri": "k10011684171_201810241832_201810241835.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011684171000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011684171000/k10011684171000.html"
+}

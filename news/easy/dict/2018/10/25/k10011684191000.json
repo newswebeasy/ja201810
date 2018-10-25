@@ -1,0 +1,88 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>耳</rb><rt>みみ</rt></ruby>や<ruby><rb>口</rb><rt>くち</rt></ruby>の<ruby><rb>不自由</rb><rt>ふじゆう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt></ruby>が、<ruby><rb>目</rb><rt>め</rt></ruby>で<ruby><rb>見</rb><rt>み</rt></ruby>てわかるように、<ruby><rb>手</rb><rt>て</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>る<ruby><rb>形</rb><rt>かたち</rt></ruby>やその<ruby><rb>動</rb><rt>うご</rt></ruby>かし<ruby><rb>方</rb><rt>かた</rt></ruby>で<ruby><rb>話</rb><rt>はなし</rt></ruby>を<ruby><rb>伝</rb><rt>つた</rt></ruby>え<ruby><rb>合</rb><rt>あ</rt></ruby>う<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。",
+          "hyouki": [
+            "手話"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>何</rb><rt>なに</rt></ruby>かをするときに、じゃまになるものごと。さまたげ。",
+          "hyouki": [
+            "障害"
+          ]
+        },
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきに<ruby><rb>故障</rb><rt>こしょう</rt></ruby>があること。",
+          "hyouki": [
+            "障害"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>映画</rb><rt>えいが</rt></ruby>やテレビが<ruby><rb>映</rb><rt>うつ</rt></ruby>っている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "画面"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>銀行</rb><rt>ぎんこう</rt></ruby>や<ruby><rb>飲食店</rb><rt>いんしょくてん</rt></ruby>などで、<ruby><rb>客</rb><rt>きゃく</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>を<ruby><rb>仕切</rb><rt>しき</rt></ruby>る<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>台</rb><rt>だい</rt></ruby>。",
+          "hyouki": [
+            "カウンター"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かず</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>える<ruby><rb>道具</rb><rt>どうぐ</rt></ruby>。",
+          "hyouki": [
+            "カウンター"
+          ]
+        },
+        {
+          "def": "ボクシングなどで、<ruby><rb>相手</rb><rt>あいて</rt></ruby>がせめてきたときに、やり<ruby><rb>返</rb><rt>かえ</rt></ruby>すこと。",
+          "hyouki": [
+            "カウンター"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>皮膚</rb><rt>ひふ</rt></ruby>の<ruby><rb>色</rb><rt>いろ</rt></ruby>が<ruby><rb>黒</rb><rt>くろ</rt></ruby>い<ruby><rb>色</rb><rt>いろ</rt></ruby>をしている<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。<ruby><rb>黒人</rb><rt>こくじん</rt></ruby>。",
+          "hyouki": [
+            "黒色人種"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "あるものとほかのものとの<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>差</rb><rt>さ</rt></ruby>をつけて、あつかい<ruby><rb>方</rb><rt>かた</rt></ruby>をちがわせること。",
+          "hyouki": [
+            "差別"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>会</rb><rt>かい</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>する<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "会長"
+          ]
+        }
+      ]
+    }
+  }
+}
