@@ -1,0 +1,274 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>寒</rb><rt>さむ</rt></ruby>い<ruby><rb>地方</rb><rt>ちほう</rt></ruby>で<ruby><rb>作</rb><rt>つく</rt></ruby>られる<ruby><rb>果物</rb><rt>くだもの</rt></ruby>。あまずっぱくて、かおりがよい。<ruby><rb>五月</rb><rt>ごがつ</rt></ruby>ごろ<ruby><rb>白</rb><rt>しろ</rt></ruby>い<ruby><rb>花</rb><rt>はな</rt></ruby>が<ruby><rb>咲</rb><rt>さ</rt></ruby>き、<ruby><rb>秋</rb><rt>あき</rt></ruby>に<ruby><rb>実</rb><rt>みの</rt></ruby>る。",
+          "hyouki": [
+            "りんご"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>文字</rb><rt>もじ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせて<ruby><rb>版</rb><rt>はん</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>り、<ruby><rb>印刷機</rb><rt>いんさつき</rt></ruby>でインクをつけて<ruby><rb>同</rb><rt>おな</rt></ruby>じものをたくさん<ruby><rb>刷</rb><rt>す</rt></ruby>ること。",
+          "hyouki": [
+            "印刷"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "ふうとうなどの、<ruby><rb>閉</rb><rt>と</rt></ruby>じたところにはる<ruby><rb>紙</rb><rt>かみ</rt></ruby>。",
+          "hyouki": [
+            "シール"
+          ]
+        },
+        {
+          "def": "かざりや<ruby><rb>目印</rb><rt>めじるし</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う、<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>模様</rb><rt>もよう</rt></ruby>のついた<ruby><rb>小</rb><rt>ちい</rt></ruby>さな<ruby><rb>紙</rb><rt>かみ</rt></ruby>。",
+          "hyouki": [
+            "シール"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>太陽系</rb><rt>たいようけい</rt></ruby>の<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>で<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>熱</rb><rt>ねつ</rt></ruby>と<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>している<ruby><rb>星</rb><rt>ほし</rt></ruby>。<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>に<ruby><rb>熱</rb><rt>ねつ</rt></ruby>や<ruby><rb>光</rb><rt>ひかり</rt></ruby>をあたえ、<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>を<ruby><rb>育</rb><rt>そだ</rt></ruby>てる。お<ruby><rb>日</rb><rt>ひ</rt></ruby>さま。",
+          "hyouki": [
+            "太陽"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ぶつかる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>命中</rb><rt>めいちゅう</rt></ruby>する。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ねらったとおりうまくいく。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>光</rb><rt>ひかり</rt></ruby>・<ruby><rb>風</rb><rt>かぜ</rt></ruby>などを）<ruby><rb>受</rb><rt>う</rt></ruby>けるようにする。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ちょうど<ruby><rb>当</rb><rt>あ</rt></ruby>てはまる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>にある。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仕事</rb><rt>しごと</rt></ruby>などを<ruby><rb>引</rb><rt>ひ</rt></ruby>き<ruby><rb>受</rb><rt>う</rt></ruby>ける。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>確</rb><rt>たし</rt></ruby>かめる。<ruby><rb>調</rb><rt>しら</rt></ruby>べる。",
+          "hyouki": [
+            "当たる"
+          ]
+        },
+        {
+          "def": "ひどい<ruby><rb>目</rb><rt>め</rt></ruby>にあわせる。",
+          "hyouki": [
+            "当たる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>農業</rb><rt>のうぎょう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしを<ruby><rb>立</rb><rt>た</rt></ruby>てている<ruby><rb>家</rb><rt>いえ</rt></ruby>。また、その<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "農家"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "たがいに<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>すること。<ruby><rb>交</rb><rt>ま</rt></ruby>じり<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "交流"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>時間</rb><rt>じかん</rt></ruby>ごとに、<ruby><rb>流</rb><rt>なが</rt></ruby>れの<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>が<ruby><rb>逆</rb><rt>ぎゃく</rt></ruby>になる<ruby><rb>電流</rb><rt>でんりゅう</rt></ruby>。",
+          "hyouki": [
+            "交流"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>絵</rb><rt>え</rt></ruby>をかくことを<ruby><rb>仕事</rb><rt>しごと</rt></ruby>にしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>絵</rb><rt>え</rt></ruby>かき。",
+          "hyouki": [
+            "画家"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>江戸時代</rb><rt>えどじだい</rt></ruby>に<ruby><rb>始</rb><rt>はじ</rt></ruby>まったもので、<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>、<ruby><rb>景色</rb><rt>けしき</rt></ruby>などをかいた<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>絵</rb><rt>え</rt></ruby>。<ruby><rb>筆</rb><rt>ふで</rt></ruby>でかいたものと、<ruby><rb>版画</rb><rt>はんが</rt></ruby>とがある。<ruby><rb>歌麿</rb><rt>うたまろ</rt></ruby>・<ruby><rb>北斎</rb><rt>ほくさい</rt></ruby>・<ruby><rb>広重</rb><rt>ひろしげ</rt></ruby>などが<ruby><rb>名高</rb><rt>なだか</rt></ruby>い。",
+          "hyouki": [
+            "浮世絵"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>え。<ruby><rb>思</rb><rt>おも</rt></ruby>いつき。<ruby><rb>工夫</rb><rt>くふう</rt></ruby>。アイディア。",
+          "hyouki": [
+            "アイデア"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ]
+    }
+  }
+}

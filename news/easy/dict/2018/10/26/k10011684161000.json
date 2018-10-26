@@ -1,0 +1,102 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>聖人</rb><rt>せいじん</rt></ruby>を<ruby><rb>記念</rb><rt>きねん</rt></ruby>するキリスト<ruby><rb>教</rb><rt>きょう</rt></ruby>の<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>（１１<ruby><rb>月</rb><rt>がつ</rt></ruby><ruby><rb>１日</rb><rt>ついたち</rt></ruby>）の<ruby><rb>前夜祭</rb><rt>ぜんやさい</rt></ruby>。アメリカなどではカボチャをくりぬいてかざったり、<ruby><rb>子</rb><rt>こ</rt></ruby>どもたちが<ruby><rb>仮装</rb><rt>かそう</rt></ruby>して<ruby><rb>家々</rb><rt>いえいえ</rt></ruby>を<ruby><rb>回</rb><rt>まわ</rt></ruby>ったりする。",
+          "hyouki": [
+            "ハロウィーン"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ガラスやせともの・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "瓶"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>化</rb><rt>ば</rt></ruby>け<ruby><rb>物</rb><rt>もの</rt></ruby>。ゆうれい。",
+          "hyouki": [
+            "お化け"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "かいた<ruby><rb>絵</rb><rt>え</rt></ruby>や<ruby><rb>人形</rb><rt>にんぎょう</rt></ruby>を、<ruby><rb>動</rb><rt>うご</rt></ruby>きに<ruby><rb>従</rb><rt>したが</rt></ruby>って<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>一</rb><rt>ひと</rt></ruby>こま<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>し、それを<ruby><rb>映</rb><rt>うつ</rt></ruby>して<ruby><rb>実際</rb><rt>じっさい</rt></ruby>に<ruby><rb>動</rb><rt>うご</rt></ruby>いているように<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>映画</rb><rt>えいが</rt></ruby>。<ruby><rb>動画</rb><rt>どうが</rt></ruby>。アニメ。",
+          "hyouki": [
+            "アニメーション"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>性格</rb><rt>せいかく</rt></ruby>。<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>味</rb><rt>あじ</rt></ruby>。",
+          "hyouki": [
+            "キャラクター"
+          ]
+        },
+        {
+          "def": "まんが・<ruby><rb>映画</rb><rt>えいが</rt></ruby>・<ruby><rb>劇</rb><rt>げき</rt></ruby>などに<ruby><rb>出</rb><rt>で</rt></ruby>てくる<ruby><rb>人物</rb><rt>じんぶつ</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。",
+          "hyouki": [
+            "キャラクター"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>社会</rb><rt>しゃかい</rt></ruby>のために、<ruby><rb>自分</rb><rt>じぶん</rt></ruby>から<ruby><rb>進</rb><rt>すす</rt></ruby>んで、<ruby><rb>無料</rb><rt>むりょう</rt></ruby>で<ruby><rb>奉仕活動</rb><rt>ほうしかつどう</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "ボランティア"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>や<ruby><rb>自転車</rb><rt>じてんしゃ</rt></ruby>などの、<ruby><rb>車輪</rb><rt>しゃりん</rt></ruby>の<ruby><rb>外側</rb><rt>そとがわ</rt></ruby>にはめたゴムの<ruby><rb>輪</rb><rt>わ</rt></ruby>。",
+          "hyouki": [
+            "タイヤ"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "くぼんだ<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>こうまでつきぬけている<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>弱</rb><rt>よわ</rt></ruby>いところ。",
+          "hyouki": [
+            "穴"
+          ]
+        },
+        {
+          "def": "<ruby><rb>損</rb><rt>そん</rt></ruby>。<ruby><rb>不足</rb><rt>ふそく</rt></ruby>。",
+          "hyouki": [
+            "穴"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。",
+          "hyouki": [
+            "コンビニ"
+          ]
+        }
+      ]
+    }
+  }
+}

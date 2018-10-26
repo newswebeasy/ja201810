@@ -1,0 +1,60 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>思</rb><rt>おも</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>しておくこと。また、その<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "記念"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>を<ruby><rb>代表</rb><rt>だいひょう</rt></ruby>して<ruby><rb>外交</rb><rt>がいこう</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする、<ruby><rb>外交官</rb><rt>がいこうかん</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "大使"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>合</rb><rt>あ</rt></ruby>わせて、ものごとを<ruby><rb>行</rb><rt>おこな</rt></ruby>うこと。",
+          "hyouki": [
+            "協力"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>大学</rb><rt>だいがく</rt></ruby>で<ruby><rb>学生</rb><rt>がくせい</rt></ruby>に<ruby><rb>教</rb><rt>おし</rt></ruby>えるための<ruby><rb>科目</rb><rt>かもく</rt></ruby>。",
+          "hyouki": [
+            "講座"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>のための<ruby><rb>講習会</rb><rt>こうしゅうかい</rt></ruby>や<ruby><rb>放送番組</rb><rt>ほうそうばんぐみ</rt></ruby>。また、そのための<ruby><rb>本</rb><rt>ほん</rt></ruby>。",
+          "hyouki": [
+            "講座"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。",
+          "hyouki": [
+            "テロ"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>仲間</rb><rt>なかま</rt></ruby>。<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>。",
+          "hyouki": [
+            "グループ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>・<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>・<ruby><rb>放送</rb><rt>ほうそう</rt></ruby>などの<ruby><rb>記者</rb><rt>きしゃ</rt></ruby>や<ruby><rb>編集者</rb><rt>へんしゅうしゃ</rt></ruby>。",
+          "hyouki": [
+            "ジャーナリスト"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>命</rb><rt>いのち</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>る。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "（<ruby><rb>笑</rb><rt>わら</rt></ruby>い・あくび・<ruby><rb>息</rb><rt>いき</rt></ruby>などを）おさえて<ruby><rb>止</rb><rt>と</rt></ruby>める。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>役</rb><rt>やく</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>たなくする。",
+          "hyouki": [
+            "殺す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、アウトにする。",
+          "hyouki": [
+            "殺す"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>始</rb><rt>はじ</rt></ruby>まる。",
+          "hyouki": [
+            "起こる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>生</rb><rt>しょう</rt></ruby>じる。<ruby><rb>起</rb><rt>お</rt></ruby>きる。",
+          "hyouki": [
+            "起こる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>母</rb><rt>はは</rt></ruby>。",
+          "hyouki": [
+            "母親"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "おむすび。にぎり<ruby><rb>飯</rb><rt>めし</rt></ruby>。",
+          "hyouki": [
+            "お握り"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>とのつきあいや<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>の<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>めなどの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "外務省"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ないこと、<ruby><rb>苦</rb><rt>くる</rt></ruby>しいことから、のがれる。",
+          "hyouki": [
+            "助かる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>費用</rb><rt>ひよう</rt></ruby>や<ruby><rb>苦労</rb><rt>くろう</rt></ruby>が<ruby><rb>少</rb><rt>すく</rt></ruby>なくてすむ。",
+          "hyouki": [
+            "助かる"
+          ]
+        }
+      ]
+    }
+  }
+}
