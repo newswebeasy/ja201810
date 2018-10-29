@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011686131000",
+  "news_prearranged_time": "2018-10-29 11:30:00",
+  "title": "インターネットを使ったいじめが１万２０００件以上",
+  "title_with_ruby": "インターネットを<ruby>使<rt>つか</rt></ruby>ったいじめが１<ruby>万<rt>まん</rt></ruby>２０００<ruby>件<rt>けん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>文部科学省<rt>もんぶかがくしょう</rt></ruby></a>は、インターネットを<ruby>使<rt>つか</rt></ruby>った<ruby>子<rt>こ</rt></ruby>どもの<a href='javascript:void(0)' class='dicWin' id='id-0000'>いじめ</a>がどのくらいあったか<ruby>調<rt>しら</rt></ruby>べました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181026/../20181026/K10011686131_1810252334_1810260414_01_02.jpg",
+  "news_web_movie_uri": "k10011686131_201810260439_201810260440.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011686131000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011686131000/k10011686131000.html"
+}

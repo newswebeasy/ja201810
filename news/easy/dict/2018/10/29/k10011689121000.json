@@ -1,0 +1,38 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "フナを<ruby><rb>改良</rb><rt>かいりょう</rt></ruby>して、<ruby><rb>色</rb><rt>いろ</rt></ruby>や<ruby><rb>形</rb><rt>かたち</rt></ruby>を<ruby><rb>変</rb><rt>か</rt></ruby>えた<ruby><rb>観賞用</rb><rt>かんしょうよう</rt></ruby>の<ruby><rb>魚</rb><rt>さかな</rt></ruby>。たくさんの<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>がある。<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>中国</rb><rt>ちゅうごく</rt></ruby>から<ruby><rb>伝</rb><rt>つた</rt></ruby>えられた。",
+          "hyouki": [
+            "金魚"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>共通</rb><rt>きょうつう</rt></ruby>する<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>によって<ruby><rb>分</rb><rt>わ</rt></ruby>けたもの。",
+          "hyouki": [
+            "種類"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "くわしく<ruby><rb>調</rb><rt>しら</rt></ruby>べて、よいか<ruby><rb>悪</rb><rt>わる</rt></ruby>いかや、<ruby><rb>等級</rb><rt>とうきゅう</rt></ruby>などを<ruby><rb>決</rb><rt>き</rt></ruby>めること。",
+          "hyouki": [
+            "審査"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ]
+    }
+  }
+}
