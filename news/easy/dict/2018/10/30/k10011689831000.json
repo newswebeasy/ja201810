@@ -1,0 +1,152 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>自然</rb><rt>しぜん</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>、<ruby><rb>歴史</rb><rt>れきし</rt></ruby>などについての<ruby><rb>資料</rb><rt>しりょう</rt></ruby>を<ruby><rb>集</rb><rt>あつ</rt></ruby>めて、<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>に<ruby><rb>見</rb><rt>み</rt></ruby>せる<ruby><rb>施設</rb><rt>しせつ</rt></ruby>。",
+          "hyouki": [
+            "博物館"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>開</rb><rt>ひら</rt></ruby>くこと。<ruby><rb>開場</rb><rt>かいじょう</rt></ruby>。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "かくしだてをしないようす。",
+          "hyouki": [
+            "オープン"
+          ]
+        },
+        {
+          "def": "おおわれていない。<ruby><rb>公式</rb><rt>こうしき</rt></ruby>でない。",
+          "hyouki": [
+            "オープン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>文化的</rb><rt>ぶんかてき</rt></ruby>な<ruby><rb>価値</rb><rt>かち</rt></ruby>のあるもの。<ruby><rb>特</rb><rt>とく</rt></ruby>に、<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>によって<ruby><rb>生</rb><rt>う</rt></ruby>み<ruby><rb>出</rb><rt>だ</rt></ruby>された、<ruby><rb>国民</rb><rt>こくみん</rt></ruby>がほこれる<ruby><rb>財産</rb><rt>ざいさん</rt></ruby>。<ruby><rb>学問</rb><rt>がくもん</rt></ruby>・<ruby><rb>芸術</rb><rt>げいじゅつ</rt></ruby>など。",
+          "hyouki": [
+            "文化財"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>木</rb><rt>き</rt></ruby>・<ruby><rb>石</rb><rt>いし</rt></ruby>・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などを、ほったりけずったりして、いろいろな<ruby><rb>形</rb><rt>かたち</rt></ruby>をつくること。また、その<ruby><rb>作品</rb><rt>さくひん</rt></ruby>。",
+          "hyouki": [
+            "彫刻"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "つり<ruby><rb>合</rb><rt>あ</rt></ruby>いが<ruby><rb>取</rb><rt>と</rt></ruby>れて、すわりがよいこと。",
+          "hyouki": [
+            "安定"
+          ]
+        },
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しい<ruby><rb>変化</rb><rt>へんか</rt></ruby>がないこと。",
+          "hyouki": [
+            "安定"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>き。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>四角</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "やりかた。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。",
+          "hyouki": [
+            "方"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ]
+    }
+  }
+}

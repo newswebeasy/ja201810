@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011691101000",
+  "news_prearranged_time": "2018-10-30 16:30:00",
+  "title": "イタリアのベネチア　嵐で町の７５％に水が入る",
+  "title_with_ruby": "イタリアのベネチア　<ruby>嵐<rt>あらし</rt></ruby>で<ruby>町<rt>まち</rt></ruby>の７５％に<ruby>水<rt>みず</rt></ruby>が<ruby>入<rt>はい</rt></ruby>る",
+  "outline_with_ruby": "<p>イタリアでは２９<ruby>日<rt>にち</rt></ruby>まで<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>嵐<rt>あらし</rt></ruby></a>が<ruby>続<rt>つづ</rt></ruby>いて、<ruby>雨<rt>あめ</rt></ruby>がたくさん<ruby>降<rt>ふ</rt></ruby>って<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>きました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20181030/../20181030/K10011691101_1810300913_1810300956_01_02.jpg",
+  "news_web_movie_uri": "k10011691101_201810301212_201810301220.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011691101000.mp4",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011691101000/k10011691101000.html"
+}

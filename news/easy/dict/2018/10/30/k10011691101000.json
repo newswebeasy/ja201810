@@ -1,0 +1,100 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>風</rb><rt>かぜ</rt></ruby>。",
+          "hyouki": [
+            "嵐"
+          ]
+        },
+        {
+          "def": "<ruby><rb>激</rb><rt>はげ</rt></ruby>しい<ruby><rb>風</rb><rt>かぜ</rt></ruby>と<ruby><rb>雨</rb><rt>あめ</rt></ruby>。<ruby><rb>暴風雨</rb><rt>ぼうふうう</rt></ruby>。",
+          "hyouki": [
+            "嵐"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>所</rb><rt>ところ</rt></ruby>。また、<ruby><rb>政治</rb><rt>せいじ</rt></ruby>の<ruby><rb>中心地</rb><rt>ちゅうしんち</rt></ruby>。<ruby><rb>首都</rb><rt>しゅと</rt></ruby>。",
+          "hyouki": [
+            "都"
+          ]
+        },
+        {
+          "def": "はなやかな<ruby><rb>町</rb><rt>まち</rt></ruby>。<ruby><rb>都会</rb><rt>とかい</rt></ruby>。",
+          "hyouki": [
+            "都"
+          ]
+        },
+        {
+          "def": "<ruby><rb>暮</rb><rt>く</rt></ruby>らしやすい<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "都"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "ユネスコの「<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby><ruby><rb>及</rb><rt>およ</rt></ruby>び<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>の<ruby><rb>保護</rb><rt>ほご</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>条約</rb><rt>じょうやく</rt></ruby>」（「<ruby><rb>世界遺産保護条約</rb><rt>せかいいさんほごじょうやく</rt></ruby>」）にもとづいて<ruby><rb>決</rb><rt>き</rt></ruby>められた、<ruby><rb>世界的</rb><rt>せかいてき</rt></ruby>に<ruby><rb>残</rb><rt>のこ</rt></ruby>す<ruby><rb>価値</rb><rt>かち</rt></ruby>があると<ruby><rb>認</rb><rt>みと</rt></ruby>められた<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>や<ruby><rb>自然</rb><rt>しぜん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、<ruby><rb>文化遺産</rb><rt>ぶんかいさん</rt></ruby>として<ruby><rb>姫路城</rb><rt>ひめじじょう</rt></ruby>や<ruby><rb>法隆寺</rb><rt>ほうりゅうじ</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の<ruby><rb>首里城</rb><rt>しゅりじょう</rt></ruby>など、<ruby><rb>自然遺産</rb><rt>しぜんいさん</rt></ruby>として<ruby><rb>屋久島</rb><rt>やくしま</rt></ruby>や<ruby><rb>白神山地</rb><rt>しらかみさんち</rt></ruby>などが<ruby><rb>指定</rb><rt>してい</rt></ruby>されている。",
+          "hyouki": [
+            "世界遺産"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>を<ruby><rb>通</rb><rt>とお</rt></ruby>したり<ruby><rb>水</rb><rt>みず</rt></ruby>を<ruby><rb>引</rb><rt>ひ</rt></ruby>いたりするために、<ruby><rb>陸地</rb><rt>りくち</rt></ruby>をほって<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>水路</rb><rt>すいろ</rt></ruby>。",
+          "hyouki": [
+            "運河"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "ももと、すねのつなぎ<ruby><rb>目</rb><rt>め</rt></ruby>にある、<ruby><rb>関節</rb><rt>かんせつ</rt></ruby>の<ruby><rb>前側</rb><rt>まえがわ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "膝"
+          ]
+        },
+        {
+          "def": "すわったときの、ももの<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "膝"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>。",
+          "hyouki": [
+            "中心"
+          ]
+        },
+        {
+          "def": "ものごとのいちばんだいじなところ。",
+          "hyouki": [
+            "中心"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>景色</rb><rt>けしき</rt></ruby>のよい<ruby><rb>所</rb><rt>ところ</rt></ruby>や<ruby><rb>名所</rb><rt>めいしょ</rt></ruby>などを<ruby><rb>見物</rb><rt>けんぶつ</rt></ruby>して<ruby><rb>回</rb><rt>まわ</rt></ruby>ること。",
+          "hyouki": [
+            "観光"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>危</rb><rt>あぶ</rt></ruby>ない<ruby><rb>目</rb><rt>め</rt></ruby>にあわないように、にげること。",
+          "hyouki": [
+            "避難"
+          ]
+        }
+      ]
+    }
+  }
+}
