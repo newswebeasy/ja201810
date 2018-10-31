@@ -1,0 +1,66 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>規則</rb><rt>きそく</rt></ruby>。<ruby><rb>決</rb><rt>き</rt></ruby>まり。",
+          "hyouki": [
+            "ルール"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ブドウの<ruby><rb>実</rb><rt>み</rt></ruby>のしるを<ruby><rb>発酵</rb><rt>はっこう</rt></ruby>させて<ruby><rb>造</rb><rt>つく</rt></ruby>った<ruby><rb>酒</rb><rt>さけ</rt></ruby>。ぶどう<ruby><rb>酒</rb><rt>しゅ</rt></ruby>。",
+          "hyouki": [
+            "ワイン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>産物</rb><rt>さんぶつ</rt></ruby>。",
+          "hyouki": [
+            "国産"
+          ]
+        },
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>でできた<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "国産"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>商標</rb><rt>しょうひょう</rt></ruby>。",
+          "hyouki": [
+            "ブランド"
+          ]
+        },
+        {
+          "def": "すぐれた<ruby><rb>製品</rb><rt>せいひん</rt></ruby>で<ruby><rb>知</rb><rt>し</rt></ruby>られた<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>。また、そこで<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>。",
+          "hyouki": [
+            "ブランド"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ガラスやせともの・<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>などで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>入</rb><rt>い</rt></ruby>れ<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "瓶"
+          ]
+        }
+      ]
+    }
+  }
+}
